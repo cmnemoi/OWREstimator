@@ -2,7 +2,7 @@
 A tool allowing you to judge if a world record is optimised compared to TAS.
 
 # Objectives
- * Based on a dataset of existing World Record times and TAS time, we want to predict the time of the first TAS completed for a game.
+ * Based on a dataset of existing World Record and TAS times, we want to predict the time of the first TAS completed for a game.
  * We aim +/-10% of accuracy, +/-5% would be very good (under this is bonus !)
 
 # Roadmap
