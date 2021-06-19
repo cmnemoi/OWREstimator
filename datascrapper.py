@@ -1,6 +1,6 @@
 from bs4 import BeautifulSoup
 import urllib.request
-import csv
+
 
 #initialize the game
 game = 'Metroid'
@@ -37,7 +37,9 @@ time = t[len(t)-1]
 
 #convert it in seconds
 from datetime import datetime
-x = datetime.strptime(time,'%M:%S.%f')
-time = x.minute*60+x.second+x.microsecond/1000000
+try:
+    x = datetime.strptime(time,'%H:%M:%S.%f')
+except ValueError:
+    x = datetime.strptime(time,'%M:%S.%f')
+time = x.hour*3600+x.minute*60+x.second+x.microsecond/1000000
 
-#to do : exception if the time have a hour value
