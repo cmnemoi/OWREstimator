@@ -16,3 +16,6 @@ We want to go to http://tasvideos.org/Search.html?key="string" and replace strin
 
  * To get the **TAS' time**, we click on the first result, find a way to click on "History of the entry" (probably taking the second li in the _tabbernav_ ul) then copy the content of the last link of the last _del_ of the _tabbertab_ div to get the time of the TAS.
  * We can get the **emulator** in which the TAS have been made by accessing the _misc_ class td's first link.
+
+# Credits
+Thanks @kaparker for her [web scrapper repo](https://github.com/kaparker/tutorials/blob/master/pythonscraper/websitescrapefasttrack.py) and her [tutorial](https://blog.lesjeudis.com/web-scraping-avec-python) (in French).
