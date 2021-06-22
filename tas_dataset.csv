@@ -1,0 +1,6 @@
+,game,TAS_time(seconds),category,emulator
+0,NES Mega Man 2,1428.51,Any%,FCEUX
+1,GBA Castlevania: Aria of Sorrow,1125.26,all souls,VBA
+2,GBC Pokémon: Yellow Version,194.15,arbitrary code execution,VBA
+3,SNES Super Mario World 2: Yoshi's Island,369.03,warp glitch,Bizhawk
+4,NES Super Mario Bros. 3,658.92,warps,Famtasia
