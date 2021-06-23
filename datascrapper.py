@@ -19,6 +19,7 @@ def getting_page(game):
 
     soup = BeautifulSoup(page, 'html.parser')
 
+
     return soup
 
 def urlify(s):
@@ -31,17 +32,19 @@ def urlify(s):
     # Replace all runs of whitespace with a -
     s = re.sub(r"\s+", '-', s)
 
+    s=s.replace('vohejnvehiufzjejnd','')
+
+
     return s
 
 
 def get_emulator(game):
+    soup=getting_page(game)
 
-    soup = getting_page(game)
-    
     results = []
     result = {}
     # getting emulator
-    table = soup.find_all('table',attrs={'class':'item'})[len(soup.find_all('table',attrs={'class':'item'}))-1]
+    table = soup.find('table',attrs={'class':'item'})
     td = table.find('td',attrs={'class':'misc'})
     result['game'] = game
     result['emulator'] = td.a.contents[0].split(' ')[0]
@@ -49,43 +52,49 @@ def get_emulator(game):
     return result
 
 def get_category(game):
-    soup = getting_page(game)
-
+    soup=getting_page(game)
+    
     results = []
     result = {}
-    spans = soup.find_all('span',attrs={'class':'thin'})
-    for span in spans:
-        result['game'] = game
-        try:
-            result['category'] = span.next_sibling.split('"')[1]
-        except IndexError:
-            result['category'] = 'Any%'
+    result['game'] = game
+    span = soup.find('span',attrs={'class':'thin'})
+    try:
+        result['category'] = span.next_sibling.split('"')[1]
+    except IndexError:
+        result['category'] = 'Any%'
+    # for span in spans:
+    #     result['game'] = game
+    #     try:
+    #         result['category'] = span.next_sibling.split('"')[1]
+    #     except IndexError:
+    #         result['category'] = 'Any%'
         # results.append(result)
     return result
 
 def get_fastest_TAS_time(game):
-    soup = getting_page(game)
+    soup=getting_page(game)
     # getting time
     results = []
     result = {}
-    spans = soup.find_all('span',attrs={'class':'thin'})
+    span = soup.find('span',attrs={'class':'thin'})
     quote = '"'
-    for span in spans:
-        result['game'] = game
-        if quote in span.next_sibling:
-            if 'in' in span.next_sibling.split('"')[1]:
-                time = span.next_sibling.split('in')[2].split('by')[0].split(' ')[1]
-            else:
-                time = span.next_sibling.split('in')[1].split('by')[0].split(' ')[1]
+    # for span in spans:
+    result['game'] = game
+    if quote in span.next_sibling:
+        if 'in' in span.next_sibling.split('"')[1]:
+            time = span.next_sibling.split('in')[2].split('by')[0].split(' ')[1]
         else:
             time = span.next_sibling.split('in')[1].split('by')[0].split(' ')[1]
-        # convert it in seconds
-        from datetime import datetime
-        try:
-            x = datetime.strptime(time,'%H:%M:%S.%f')
-        except ValueError:
-            x = datetime.strptime(time,'%M:%S.%f')
-        time = x.hour*3600+x.minute*60+x.second+x.microsecond/1000000
-        result['TAS_time(seconds)'] = time   
+    else:
+        time = span.next_sibling.split('in')[1].split('by')[0].split(' ')[1]
+    # convert it in seconds
+    from datetime import datetime
+    try:
+        x = datetime.strptime(time,'%H:%M:%S.%f')
+    except ValueError:
+        x = datetime.strptime(time,'%M:%S.%f')
+    time = x.hour*3600+x.minute*60+x.second+x.microsecond/1000000
+    result['TAS_time(seconds)'] = time   
         # results.append(result)
     return result
+
