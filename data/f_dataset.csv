@@ -1,0 +1,459 @@
+,game,category,game+category,time,released_year,age,nb_of_runs,main_platform,main_genre,engine,developer,publisher,TAS_time,emulator,time_difference,%_of_difference,Unpopular,Somehow_Popular,Popular,Very_Popular,Young,Somehow_Old,Old,Very_Old,Short,Somehow_Long,Long,Very_Long
+0,X-Men 2: Clone Wars,Any%,X-Men 2: Clone Wars - Any%,1251.0,1995,26,12,Sega Genesis,Platformer,,Headgames,SEGA,958.99,BizHawk,292.01,23.3421262989608,0,0,1,0,1,0,0,0,0,0,1,0
+1,Kao the Kangaroo,Any%,Kao the Kangaroo - Any%,1517.0,2000,21,2,Dreamcast,3D Platformer,,,,852.3,BizHawk,664.7,43.8167435728411,1,0,0,0,1,0,0,0,0,0,1,0
+2,Mario & Luigi: Superstar Saga,Any%,Mario & Luigi: Superstar Saga - Any%,4436.0,2003,18,11,Game Boy Advance,,,,,3559.35,BizHawk,876.6500000000001,19.762173128945,0,0,1,0,1,0,0,0,0,0,0,1
+3,Black Castle,Any%,Black Castle - Any%,512.0,2020,1,3,Game Boy Color,,,7FH,,453.1,,58.89999999999998,11.50390625,1,0,0,0,1,0,0,0,1,0,0,0
+4,Sonic 3 & Knuckles,Sonic,Sonic 3 & Knuckles - Sonic,1797.0,1994,27,41,GameCube,Action,,Sonic Team,SEGA,1704.76,,92.24,5.13299944351697,0,0,0,1,0,0,0,1,0,0,1,0
+5,Sonic 3 & Knuckles,Tails,Sonic 3 & Knuckles - Tails,1833.0,1994,27,15,GameCube,Action,,Sonic Team,SEGA,1812.52,,20.480000000000015,1.11729405346427,0,0,1,0,1,0,0,0,0,0,1,0
+6,Sonic 3 & Knuckles,Knuckles,Sonic 3 & Knuckles - Knuckles,1421.0,1994,27,19,GameCube,Action,,Sonic Team,SEGA,1327.68,Gens,93.31999999999994,6.56720619282195,0,0,1,0,1,0,0,0,0,0,1,0
+7,Tomb Raider,Any%,Tomb Raider - Any%,3409.0,1996,25,45,Sega Saturn,,,,,3139.45,BizHawk,269.5500000000002,7.90701085362277,0,0,0,1,0,0,0,1,0,0,0,1
+8,Donkey Kong Country,101%,Donkey Kong Country - 101%,2708.0,1994,27,67,Super Nintendo,Platformer,,Rare,Nintendo,2478.37,BizHawk,229.6300000000001,8.47968980797637,0,0,0,1,0,0,0,1,0,0,0,1
+9,Donkey Kong Country,Any%,Donkey Kong Country - Any%,450.333,1994,27,89,Super Nintendo,Platformer,,Rare,Nintendo,444.68,,5.65300000000002,1.2552933051764,0,0,0,1,0,0,0,1,1,0,0,0
+10,The Revenge of Shinobi,Any%,The Revenge of Shinobi - Any%,753.52,1989,32,17,Wii Virtual Console,,,,,718.93,BizHawk,34.59000000000003,4.59045546236331,0,0,1,0,1,0,0,0,0,1,0,0
+11,Ninja Gaiden II: The Dark Sword of Chaos,Any%,Ninja Gaiden II: The Dark Sword of Chaos - Any%,595.9,1990,31,102,Nintendo Entertainment System,,,,,552.17,FCEUX,43.73000000000002,7.33847961067294,0,0,0,1,0,0,0,1,1,0,0,0
+12,King's Quest: Quest for the Crown,Any%,King's Quest: Quest for the Crown - Any%,67.0,1983,38,9,MS-DOS,,,,,15.85,,51.15,76.3432835820896,0,0,1,0,1,0,0,0,1,0,0,0
+13,Ristar,Any%,Ristar - Any%,1624.0,1995,26,29,GameCube,,,,,1604.15,,19.84999999999991,1.22229064039408,0,0,0,1,0,0,1,0,0,0,1,0
+14,Earthworm Jim 2,Any%,Earthworm Jim 2 - Any%,1341.0,1995,26,6,Sega Genesis,,,,,1275.06,,65.9400000000001,4.917225950783,0,1,0,0,1,0,0,0,0,0,1,0
+15,Banjo-Kazooie: Grunty's Revenge,Any%,Banjo-Kazooie: Grunty's Revenge - Any%,2678.0,2003,18,18,Game Boy Advance,,,,,2533.32,BizHawk,144.67999999999984,5.40253920836445,0,0,1,0,1,0,0,0,0,0,0,1
+16,Kaizo Mario World 3,Any%,Kaizo Mario World 3 - Any%,2357.0,2012,9,2,Super Nintendo,,,,,1031.23,snes9x,1325.77,56.2481968604158,1,0,0,0,1,0,0,0,0,0,0,1
+17,Family Dog,Any%,Family Dog - Any%,374.0,1993,28,4,Super Nintendo,,,,,353.73,,20.269999999999985,5.41978609625668,0,1,0,0,1,0,0,0,1,0,0,0
+18,Saiyuuki World,Any%,Saiyuuki World - Any%,810.0,1988,33,4,Nintendo Entertainment System,,,,,696.42,,113.58000000000004,14.0222222222222,0,1,0,0,1,0,0,0,0,1,0,0
+19,Bio Hazard,Any%,Bio Hazard - Any%,1076.0,2003,18,1,Nintendo Entertainment System,Horror,,Waixing,Waixing,862.13,,213.87,19.8763940520446,1,0,0,0,1,0,0,0,0,1,0,0
+20,Demon's Crest,100%,Demon's Crest - 100%,2301.0,1994,27,38,Super Nintendo,side-scrolling Platformer,,Capcom,Capcom,2087.23,,213.77,9.290308561495,0,0,0,1,0,0,0,1,0,0,1,0
+21,Star Wars Episode I: Racer,Any%,Star Wars Episode I: Racer - Any%,1917.0,1999,22,23,Nintendo 64,Racing,,LucasArts,LucasArts,1896.75,,20.25,1.05633802816901,0,0,0,1,0,1,0,0,0,0,1,0
+22,Donkey Kong Country 2: Diddy's Kong Quest,Any%,Donkey Kong Country 2: Diddy's Kong Quest - Any%,2294.0,1995,26,274,Super Nintendo,Platformer,,Rare,Nintendo,2249.39,BizHawk,44.61000000000013,1.94463818657368,0,0,0,1,0,0,0,1,0,0,1,0
+23,Donkey Kong Country 2: Diddy's Kong Quest,102%,Donkey Kong Country 2: Diddy's Kong Quest - 102%,5154.0,1995,26,89,Super Nintendo,Platformer,,Rare,Nintendo,4891.88,,262.1199999999999,5.08575863407062,0,0,0,1,0,0,0,1,0,0,0,1
+24,Metroid Fusion,100%,Metroid Fusion - 100%,5754.0,2002,19,82,Game Boy Advance,Action-adventure,,Nintendo R&D1,Nintendo,5719.3,,34.69999999999982,0.60305874174487,0,0,0,1,0,0,0,1,0,0,0,1
+25,Metroid Fusion,0%,Metroid Fusion - 0%,4654.0,2002,19,5,Game Boy Advance,Action-adventure,,Nintendo R&D1,Nintendo,4406.73,,247.27000000000044,5.31306403094114,0,1,0,0,1,0,0,0,0,0,0,1
+26,Plok,Any%,Plok - Any%,1761.0,1993,28,11,Super Nintendo,,,,,1578.52,BizHawk,182.48,10.3622941510505,0,0,1,0,1,0,0,0,0,0,1,0
+27,Bugs Bunny in Double Trouble,Any%,Bugs Bunny in Double Trouble - Any%,2280.0,1996,25,1,Sega Genesis,,,,,665.77,,1614.23,70.7995614035088,1,0,0,0,1,0,0,0,0,0,1,0
+28,Earnest Evans,Any%,Earnest Evans - Any%,513.0,1991,30,4,Sega Genesis,Platformer,,Wolf Team,Wolf Team,456.54,BizHawk,56.45999999999998,11.0058479532164,0,1,0,0,1,0,0,0,1,0,0,0
+29,Super Castlevania IV,Any%,Super Castlevania IV - Any%,1885.0,1991,30,134,Super Nintendo,,,,,1778.08,snes9x,106.92000000000009,5.67214854111406,0,0,0,1,0,0,0,1,0,0,1,0
+30,Flicky,Any%,Flicky - Any%,909.0,1991,30,11,GameCube,,,,,880.25,,28.75,3.16281628162816,0,0,1,0,1,0,0,0,0,1,0,0
+31,Monkey Magic,Any%,Monkey Magic - Any%,4050.0,2000,21,1,PlayStation,,,,,2426.37,,1623.63,40.0896296296296,1,0,0,0,1,0,0,0,0,0,0,1
+32,Sorcerer's Maze,Any%,Sorcerer's Maze - Any%,5187.0,1998,23,2,PlayStation 2,,,,,2702.23,,2484.77,47.9037979564295,1,0,0,0,1,0,0,0,0,0,0,1
+33,Punky Skunk,Any%,Punky Skunk - Any%,3218.0,1996,25,5,PlayStation 2,Adventure Platformer,,Jaleco,,2853.37,,364.6300000000001,11.3309509011809,0,1,0,0,1,0,0,0,0,0,0,1
+34,Donkey Kong Country 4,Any%,Donkey Kong Country 4 - Any%,874.0,1997,24,7,Nintendo Entertainment System,,,Hummer Team,,776.27,,97.73000000000002,11.1819221967963,0,1,0,0,1,0,0,0,0,1,0,0
+35,Braid,Any%,Braid - Any%,1481.54,2008,13,53,PlayStation 3,Puzzle,,,,1179.58,,301.96000000000004,20.3814949309502,0,0,0,1,0,0,0,1,0,0,1,0
+36,Tiny Toon Adventures,Any%,Tiny Toon Adventures - Any%,751.0,1991,30,36,Nintendo Entertainment System,,,,,659.88,BizHawk,91.12,12.133155792277,0,0,0,1,0,0,0,1,0,1,0,0
+37,Super Boy 4,Any%,Super Boy 4 - Any%,674.0,1992,29,5,,,,,,603.01,,70.99000000000001,10.5326409495549,0,1,0,0,1,0,0,0,0,1,0,0
+38,Rocket: Robot on Wheels,100%,Rocket: Robot on Wheels - 100%,5229.0,1999,22,5,Nintendo 64,Platformer,,Sucker Punch Productions,Ubisoft,4492.8,,736.1999999999998,14.07917383821,0,1,0,0,1,0,0,0,0,0,0,1
+39,Karnov,Any%,Karnov - Any%,527.216,1987,34,48,Nintendo Entertainment System,,,,,518.91,,8.30600000000004,1.57544535825924,0,0,0,1,0,0,0,1,1,0,0,0
+40,James Bond Jr.,Any%,James Bond Jr. - Any%,1291.0,1991,30,5,Nintendo Entertainment System,,,Eurocom,THQ,1109.84,,181.16000000000008,14.0325329202169,0,1,0,0,1,0,0,0,0,0,1,0
+41,Arumana no Kiseki,Any%,Arumana no Kiseki - Any%,574.0,1987,34,2,Nintendo Entertainment System,,,Konami,Konami,483.6,FCEUX,90.39999999999998,15.7491289198606,1,0,0,0,1,0,0,0,1,0,0,0
+42,Sword of Vermilion,Any%,Sword of Vermilion - Any%,8546.0,1989,32,2,Wii Virtual Console,Role-playing Game,,,,5603.86,,2942.14,34.4271003978469,1,0,0,0,1,0,0,0,0,0,0,1
+43,Mouse Trap Hotel,Any%,Mouse Trap Hotel - Any%,1503.0,1992,29,2,Game Boy Player,Platformer,,Imagineering,Electro Brain,1395.81,,107.19000000000004,7.13173652694611,1,0,0,0,1,0,0,0,0,0,1,0
+44,DK: King of Swing,Any%,DK: King of Swing - Any%,1133.0,2005,16,8,Game Boy Advance,,,,,1054.47,BizHawk,78.52999999999997,6.93115622241836,0,0,1,0,1,0,0,0,0,1,0,0
+45,Paper Mario: The Thousand-Year Door,Any%,Paper Mario: The Thousand-Year Door - Any%,8322.0,2004,17,94,GameCube,RPG,,Intelligent Systems,Nintendo,6429.03,Dolphin,1892.9700000000005,22.7465753424658,0,0,0,1,0,0,0,1,0,0,0,1
+46,Oddworld: Abe's Oddysee,100%,Oddworld: Abe's Oddysee - 100%,5356.401,1997,24,3,PlayStation,Platform,A.L.I.V.E,Oddworld Inhabitants,GT Interactive,3856.17,,1500.231,28.0081905742307,1,0,0,0,1,0,0,0,0,0,0,1
+47,H.E.R.O.,Any%,H.E.R.O. - Any%,1181.0,1984,37,1,Commodore 64,,,,,607.03,,573.97,48.6003386960203,1,0,0,0,1,0,0,0,0,1,0,0
+48,Kid Icarus,Any%,Kid Icarus - Any%,1258.0,1986,35,47,Nintendo Entertainment System,,,,,1166.41,FCEUX,91.58999999999992,7.2806041335453,0,0,0,1,0,0,0,1,0,0,1,0
+49,Baba Is You,Any%,Baba Is You - Any%,295.81,2019,2,23,PC,Puzzle,,Hempuli,,168.7,,127.11,42.9701497582908,0,0,0,1,0,1,0,0,1,0,0,0
+50,Shadow of the Ninja,Any%,Shadow of the Ninja - Any%,636.19,1991,30,24,Nintendo Entertainment System,,,,,570.41,,65.78000000000009,10.3396783979629,0,0,0,1,0,1,0,0,1,0,0,0
+51,The Emperor's New Groove,Any%,The Emperor's New Groove - Any%,762.0,2000,21,1,Dreamcast,,,,,453.91,,308.09,40.4317585301837,1,0,0,0,1,0,0,0,0,1,0,0
+52,Mechanized Attack,Any%,Mechanized Attack - Any%,756.0,1990,31,2,Nintendo Entertainment System,,,,,596.83,,159.16999999999996,21.0542328042328,1,0,0,0,1,0,0,0,0,1,0,0
+53,Hamtaro: Ham-Hams Unite!,Any%,Hamtaro: Ham-Hams Unite! - Any%,2634.0,2002,19,17,Game Boy Color,,,,,2582.27,,51.73000000000002,1.96393318147305,0,0,1,0,1,0,0,0,0,0,0,1
+54,Baseball,Any%,Baseball - Any%,901.0,1983,38,16,Nintendo Entertainment System,,,,,491.06,,409.94,45.4983351831299,0,0,1,0,1,0,0,0,0,1,0,0
+55,King Kong 2: Ikari no Megaton Punch,Any%,King Kong 2: Ikari no Megaton Punch - Any%,177.667,1986,35,39,Nintendo Entertainment System,,,Konami,,175.31,,2.3569999999999998,1.32663916202784,0,0,0,1,0,0,0,1,1,0,0,0
+56,Dash Galaxy in the Alien Asylum,Any%,Dash Galaxy in the Alien Asylum - Any%,374.0,1990,31,7,Nintendo Entertainment System,,,,,368.28,,5.720000000000027,1.52941176470589,0,1,0,0,1,0,0,0,1,0,0,0
+57,NFL Street 2,NFL Challenge,NFL Street 2 - NFL Challenge,3087.0,2004,17,3,GameCube,Sports,Gamecube,EA Tiburon,EA Sports BIG,1327.1,,1759.9,57.0100421120829,1,0,0,0,1,0,0,0,0,0,0,1
+58,Dynamite Headdy,Any%,Dynamite Headdy - Any%,2253.0,1994,27,19,Wii Virtual Console,Platformer,,Treasure,SEGA,1959.59,BizHawk,293.4100000000001,13.023080337328,0,0,1,0,1,0,0,0,0,0,1,0
+59,INK,Any%,INK - Any%,635.82,2015,6,28,PlayStation 4,,,,,532.57,,103.25,16.2388726369098,0,0,0,1,0,1,0,0,1,0,0,0
+60,Order of Twilight,Any%,Order of Twilight - Any%,164.76,2012,9,1,PC,Platformer,,Stabyourself.net,Stabyouself.net,47.23,,117.53,71.3340616654528,1,0,0,0,1,0,0,0,1,0,0,0
+61,New Super Mario Bros. Wii,100%,New Super Mario Bros. Wii - 100%,10787.0,2009,12,39,Wii U,Platformer,,Nintendo,Nintendo,10713.27,Dolphin,73.72999999999956,0.683507926207468,0,0,0,1,0,0,0,1,0,0,0,1
+62,Crusader of Centy,Any%,Crusader of Centy - Any%,2131.0,1994,27,31,Sega Genesis,,,,,1750.77,BizHawk,380.23,17.8427968090099,0,0,0,1,0,0,1,0,0,0,1,0
+63,Multidude,Any%,Multidude - Any%,378.0,2015,6,1,Nintendo Entertainment System,,,,,308.43,,69.57,18.4047619047619,1,0,0,0,1,0,0,0,1,0,0,0
+64,Kero Kero Keroppi no Daibouken 2: Donuts Ike ha Oosawagi!,Any%,Kero Kero Keroppi no Daibouken 2: Donuts Ike ha Oosawagi! - Any%,763.0,1993,28,7,Nintendo Entertainment System,,,,,715.46,,47.53999999999997,6.23066841415465,0,1,0,0,1,0,0,0,0,1,0,0
+65,Dragon Ball Z: Buu's Fury,Any%,Dragon Ball Z: Buu's Fury - Any%,8158.0,2004,17,20,Game Boy Advance,,,,,7042.57,BizHawk,1115.4300000000003,13.6728364795293,0,0,0,1,1,0,0,0,0,0,0,1
+66,Dragon Ball: Advanced Adventure,Any%,Dragon Ball: Advanced Adventure - Any%,2422.0,2004,17,33,Game Boy Advance,,,,,1947.56,BizHawk,474.44000000000005,19.588769611891,0,0,0,1,0,0,0,1,0,0,0,1
+67,The Legend of Zelda: Spirit Tracks,Any%,The Legend of Zelda: Spirit Tracks - Any%,15257.0,2009,12,15,Nintendo DS,,,,,14246.32,,1010.6800000000004,6.62436914203317,0,0,1,0,1,0,0,0,0,0,0,1
+68,Rambo,Any%,Rambo - Any%,1098.0,1987,34,7,Nintendo Entertainment System,Action,,Pack-In-Video,Acclaim,998.52,,99.48000000000002,9.06010928961749,0,1,0,0,1,0,0,0,0,1,0,0
+69,ALF,Any%,ALF - Any%,293.0,1989,32,13,Sega Master System,,,,,292.39,,0.6100000000000136,0.208191126279868,0,0,1,0,1,0,0,0,1,0,0,0
+70,Mickey's Dangerous Chase,Any%,Mickey's Dangerous Chase - Any%,743.0,1991,30,14,Game Boy Color,,,,,701.78,,41.22000000000003,5.54777927321669,0,0,1,0,1,0,0,0,0,1,0,0
+71,Space Shuttle Project,Any%,Space Shuttle Project - Any%,3404.0,1991,30,5,Nintendo Entertainment System,Action,,Imagineering,Absolute Entertainment,3270.01,,133.98999999999978,3.93625146886016,0,1,0,0,1,0,0,0,0,0,0,1
+72,Astérix and the Great Rescue,Any%,Astérix and the Great Rescue - Any%,1751.0,1993,28,2,Sega Genesis,,,,,1477.87,,273.1300000000001,15.598515134209,1,0,0,0,1,0,0,0,0,0,1,0
+73,Bonk 3: Bonk's Big Adventure,Any%,Bonk 3: Bonk's Big Adventure - Any%,1653.0,1993,28,3,Wii Virtual Console,,,,,1137.05,BizHawk,515.95,31.2129461584997,1,0,0,0,1,0,0,0,0,0,1,0
+74,Lucky Luke: On the Daltons' Trail,Any%,Lucky Luke: On the Daltons' Trail - Any%,2701.0,1998,23,1,PlayStation,,,,,2549.35,,151.6500000000001,5.61458718992966,1,0,0,0,1,0,0,0,0,0,0,1
+75,Mega Man: Dr. Wily's Revenge,Any%,Mega Man: Dr. Wily's Revenge - Any%,1137.0,1991,30,1,Super Game Boy,,,,,1018.11,lsnes,118.89,10.4564643799472,1,0,0,0,1,0,0,0,0,1,0,0
+76,Adventures of Lolo 3,Any%,Adventures of Lolo 3 - Any%,4686.0,1991,30,3,Nintendo Entertainment System,,,,,4028.7,,657.3000000000002,14.0268886043534,1,0,0,0,1,0,0,0,0,0,0,1
+77,Castlevania: Portrait of Ruin,Any%,Castlevania: Portrait of Ruin - Any%,736.0,2006,15,8,Nintendo DS,,,,,244.59,,491.41,66.7676630434783,0,0,1,0,1,0,0,0,0,1,0,0
+78,The Magic of Scheherazade,Any%,The Magic of Scheherazade - Any%,3460.0,1987,34,8,Nintendo Entertainment System,Adventure,,Culture Brain,Culture Brain,2878.71,,581.29,16.800289017341,0,0,1,0,1,0,0,0,0,0,0,1
+79,Urusei Yatsura: Lum no Wedding Bell,Any%,Urusei Yatsura: Lum no Wedding Bell - Any%,986.0,1986,35,2,Nintendo Entertainment System,Platform,,Jaleco,Jaleco,565.74,,420.26,42.6227180527383,1,0,0,0,1,0,0,0,0,1,0,0
+80,Sonic Heroes,Team Sonic,Sonic Heroes - Team Sonic,2776.0,2003,18,39,GameCube,Action,RenderWare (Version 3.5.0.0),Sonic Team,SEGA,2161.23,Dolphin,614.77,22.1458933717579,0,0,0,1,0,0,0,1,0,0,0,1
+81,The Mutant Virus: Crisis in a Computer World,Any%,The Mutant Virus: Crisis in a Computer World - Any%,6340.0,1992,29,1,Nintendo Entertainment System,,,,,1077.21,,5262.79,83.0093059936909,1,0,0,0,1,0,0,0,0,0,0,1
+82,Hammerin' Harry,Any%,Hammerin' Harry - Any%,424.23,1990,31,38,Nintendo Entertainment System,Platformer,,,Irem,405.9,,18.33000000000004,4.32076939396083,0,0,0,1,0,0,0,1,1,0,0,0
+83,Alex Kidd: High-Tech World,Any%,Alex Kidd: High-Tech World - Any%,517.0,1989,32,3,Sega Master System,Action-adventure,,SEGA,SEGA,399.16,,117.83999999999996,22.7930367504836,1,0,0,0,1,0,0,0,1,0,0,0
+84,Battle Kid 2: Mountain of Torment,100%,Battle Kid 2: Mountain of Torment - 100%,5696.0,2012,9,1,Nintendo Entertainment System,,,,,2758.69,BizHawk,2937.31,51.5679424157303,1,0,0,0,1,0,0,0,0,0,0,1
+85,Milon's Secret Castle,Any%,Milon's Secret Castle - Any%,505.0,1986,35,7,Nintendo Entertainment System,Metroidvania,,Hudson Soft,Hudson Soft,328.43,,176.57,34.9643564356436,0,1,0,0,1,0,0,0,1,0,0,0
+86,Cheetahmen II,Any%,Cheetahmen II - Any%,225.0,1992,29,9,Nintendo Entertainment System,,,,,71.68,,153.32,68.1422222222222,0,0,1,0,1,0,0,0,1,0,0,0
+87,Star Wars,Any%,Star Wars - Any%,566.767,1991,30,8,Nintendo Entertainment System,,,,,473.35,,93.41700000000004,16.4824345807007,0,0,1,0,1,0,0,0,1,0,0,0
+88,Shatterhand,Any%,Shatterhand - Any%,1192.0,1991,30,21,Nintendo Entertainment System,Action/Platformer,,Natsume,Jaleco,1063.23,,128.76999999999998,10.8028523489933,0,0,0,1,1,0,0,0,0,1,0,0
+89,Gimmick!,Any%,Gimmick! - Any%,345.0,1992,29,22,Nintendo Entertainment System,Platformer,,Sunsoft,Sunsoft,264.61,FCEUX,80.38999999999999,23.3014492753623,0,0,0,1,0,1,0,0,1,0,0,0
+90,Wario Land 4,Any%,Wario Land 4 - Any%,2632.0,2001,20,10,Game Boy Advance,Platformer,,Nintendo R&D1,Nintendo,2404.88,VBA,227.1199999999999,8.62917933130699,0,0,1,0,1,0,0,0,0,0,0,1
+91,Instruments of Chaos starring Young Indiana Jones,Any%,Instruments of Chaos starring Young Indiana Jones - Any%,1076.0,1994,27,1,Sega Genesis,,,,,544.58,,531.42,49.3884758364312,1,0,0,0,1,0,0,0,0,1,0,0
+92,Princess Rescue,Any%,Princess Rescue - Any%,381.244,2013,8,5,Atari 2600,,,,,368.42,,12.824000000000012,3.3637250684601,0,1,0,0,1,0,0,0,1,0,0,0
+93,Advance Wars 2: Black Hole Rising,Any%,Advance Wars 2: Black Hole Rising - Any%,4798.0,2003,18,4,Wii U,,,,,4101.25,,696.75,14.5216756982076,0,1,0,0,1,0,0,0,0,0,0,1
+94,Halo 2600,Any%,Halo 2600 - Any%,14.2,2010,11,6,Atari 2600,,,,,7.54,,6.66,46.9014084507042,0,1,0,0,1,0,0,0,1,0,0,0
+95,Celeste,Any%,Celeste - Any%,1820.0,2018,3,2503,PlayStation 4,2D Platformer,MonoGame,Matt Makes Games Inc.,Matt Makes Games Inc.,1624.43,,195.56999999999996,10.7456043956044,0,0,0,1,0,0,0,1,0,0,1,0
+96,Celeste,100%,Celeste - 100%,7684.0,2018,3,64,PlayStation 4,2D Platformer,MonoGame,Matt Makes Games Inc.,Matt Makes Games Inc.,5256.12,libTAS,2427.88,31.5965642894326,0,0,0,1,0,0,0,1,0,0,0,1
+97,Spyro: Year of the Dragon,Any%,Spyro: Year of the Dragon - Any%,1438.0,2000,21,83,PlayStation 2,,,Insomniac Games,Sony Computer Entertainment,1355.17,,82.82999999999993,5.76008344923504,0,0,0,1,0,0,0,1,0,0,1,0
+98,Spyro: Year of the Dragon,117%,Spyro: Year of the Dragon - 117%,10593.0,2000,21,93,PlayStation 2,,,Insomniac Games,Sony Computer Entertainment,8874.15,PSXjin,1718.8500000000004,16.2262815066553,0,0,0,1,0,0,0,1,0,0,0,1
+99,Wild Guns,Any%,Wild Guns - Any%,1160.0,1995,26,14,Super Nintendo,Shooting Gallery,,Natsume,Natsume,1147.55,,12.450000000000044,1.07327586206897,0,0,1,0,1,0,0,0,0,1,0,0
+100,Teenage Mutant Ninja Turtles,Any%,Teenage Mutant Ninja Turtles - Any%,1001.1,1989,32,75,Nintendo Entertainment System,Action,,Konami,Ultra Games,944.93,BizHawk,56.17000000000007,5.610828089102,0,0,0,1,0,0,0,1,0,1,0,0
+101,Mario & Luigi: Bowser's Inside Story,Any%,Mario & Luigi: Bowser's Inside Story - Any%,19188.0,2009,12,10,Nintendo DS,,,,,17389.35,,1798.6500000000017,9.37382739212008,0,0,1,0,1,0,0,0,0,0,0,1
+102,Monster World IV,Any%,Monster World IV - Any%,4554.0,1994,27,4,Wii Virtual Console,,,,,3910.64,,643.3600000000001,14.1273605621432,0,1,0,0,1,0,0,0,0,0,0,1
+103,Dragon Warrior,Any%,Dragon Warrior - Any%,1463.0,1986,35,3,Nintendo Entertainment System,JRPG,,Chunsoft,Enix,1019.57,FCEUX,443.43,30.3096377306904,1,0,0,0,1,0,0,0,0,0,1,0
+104,Contra Force,Any%,Contra Force - Any%,695.0,1992,29,10,Nintendo Entertainment System,,,,,596.0,,99.0,14.2446043165468,0,0,1,0,1,0,0,0,0,1,0,0
+105,The California Raisins: The Grape Escape,Any%,The California Raisins: The Grape Escape - Any%,272.0,1990,31,25,Nintendo Entertainment System,,,,,255.83,,16.169999999999987,5.94485294117647,0,0,0,1,0,1,0,0,1,0,0,0
+106,Virtual Boy Wario Land,Any%,Virtual Boy Wario Land - Any%,1146.0,1995,26,7,Virtual Boy,,,,,1047.33,BizHawk,98.67000000000009,8.60994764397906,0,1,0,0,1,0,0,0,0,1,0,0
+107,Final Fantasy V,Any%,Final Fantasy V - Any%,12927.0,1992,29,4,Super Nintendo,,,,,12357.13,,569.8700000000008,4.40837007813105,0,1,0,0,1,0,0,0,0,0,0,1
+108,Donald Land,Any%,Donald Land - Any%,768.0,1988,33,4,Nintendo Entertainment System,,,,,516.13,BizHawk,251.87,32.7955729166667,0,1,0,0,1,0,0,0,0,1,0,0
+109,Legend of Hero Tonma,Any%,Legend of Hero Tonma - Any%,324.0,1989,32,9,Wii Virtual Console,Platformer,,Irem,Irem,299.28,,24.720000000000027,7.62962962962964,0,0,1,0,1,0,0,0,1,0,0,0
+110,Turok: Evolution,Any%,Turok: Evolution - Any%,6558.0,2002,19,2,GameCube,,,,,1124.83,BizHawk,5433.17,82.8479719426655,1,0,0,0,1,0,0,0,0,0,0,1
+111,Super Metroid,Any%,Super Metroid - Any%,2455.0,1994,27,1143,Super Nintendo,Action Adventure,,DeerForce,Nintendo,2158.31,lsnes,296.69000000000005,12.0851323828921,0,0,0,1,0,0,0,1,0,0,0,1
+112,Super Metroid,100%,Super Metroid - 100%,4384.0,1994,27,499,Super Nintendo,Action Adventure,,DeerForce,Nintendo,3707.03,,676.9699999999998,15.4418339416058,0,0,0,1,0,0,0,1,0,0,0,1
+113,Axiom Verge,Any%,Axiom Verge - Any%,1826.433,2015,6,11,Wii U,Metroidvania,MonoGame,Thomas Happ Games,Thomas Happ Games,1488.86,libTAS,337.5730000000001,18.4826380162864,0,0,1,0,1,0,0,0,0,0,1,0
+114,Solomon's Key,Any%,Solomon's Key - Any%,747.0,1987,34,7,Nintendo Entertainment System,Puzzle,,Tecmo,Tecmo,691.68,,55.32000000000005,7.40562248995985,0,1,0,0,1,0,0,0,0,1,0,0
+115,Road Runner's Death Valley Rally,Any%,Road Runner's Death Valley Rally - Any%,1291.0,1992,29,4,Super Nintendo,Platform,,ICOM Simulations,Sunsoft,1199.67,,91.32999999999991,7.07436096049573,0,1,0,0,1,0,0,0,0,0,1,0
+116,Metroid: Zero Mission,Any%,Metroid: Zero Mission - Any%,2212.0,2004,17,282,Game Boy Advance,,,,,1928.09,,283.9100000000001,12.8349909584087,0,0,0,1,0,0,0,1,0,0,1,0
+117,Metroid: Zero Mission,100%,Metroid: Zero Mission - 100%,3951.0,2004,17,109,Game Boy Advance,,,,,3673.92,,277.0799999999999,7.01290812452544,0,0,0,1,0,0,0,1,0,0,0,1
+118,Pitfall!,Any%,Pitfall! - Any%,1150.0,1982,39,1,Atari 2600,,,,,1091.2,,58.79999999999996,5.11304347826087,1,0,0,0,1,0,0,0,0,1,0,0
+119,Pyjamarama,Any%,Pyjamarama - Any%,663.0,1984,37,1,Commodore 64,,,,,645.96,,17.039999999999964,2.57013574660633,1,0,0,0,1,0,0,0,1,0,0,0
+120,Castelian,Any%,Castelian - Any%,874.0,1991,30,2,Nintendo Entertainment System,Platformer,,Triffix Entertainment Inc.,Nintendo,838.29,,35.71000000000004,4.08581235697941,1,0,0,0,1,0,0,0,0,1,0,0
+121,Donkey Kong Country 3: Dixie Kong's Double Trouble!,Any%,Donkey Kong Country 3: Dixie Kong's Double Trouble! - Any%,2790.0,1996,25,162,Super Nintendo,Platformer,,Rare,Nintendo,2553.73,,236.27,8.46845878136201,0,0,0,1,0,0,0,1,0,0,0,1
+122,Mario Pinball Land,Any%,Mario Pinball Land - Any%,1053.0,2004,17,7,Game Boy Advance,,,,,420.41,,632.59,60.0750237416904,0,1,0,0,1,0,0,0,0,1,0,0
+123,Sonic Advance,Amy,Sonic Advance - Amy,970.0,2001,20,8,Game Boy Advance,Action,,Sonic Team,SEGA,925.8,VBA,44.200000000000045,4.55670103092784,0,0,1,0,1,0,0,0,0,1,0,0
+124,Star Voyager,Any%,Star Voyager - Any%,1251.0,1986,35,3,Nintendo Entertainment System,Space Simulation,,Acclai,Acclaim,809.53,,441.47,35.2893685051958,1,0,0,0,1,0,0,0,0,0,1,0
+125,Ty the Tasmanian Tiger 2: Bush Rescue,Any%,Ty the Tasmanian Tiger 2: Bush Rescue - Any%,2048.0,2004,2,29,GameCube,Platformer,,Krome Studios,Electronic Arts,898.41,BizHawk,1149.59,56.13232421875,0,0,0,1,0,0,1,0,0,0,1,0
+126,Donkey Kong Land III,Any%,Donkey Kong Land III - Any%,2053.0,1997,24,12,Game Boy Color,,,,,1871.33,,181.67000000000007,8.84900146127619,0,0,1,0,1,0,0,0,0,0,1,0
+127,Lizard,Any%,Lizard - Any%,1118.0,2018,3,8,Nintendo Entertainment System,,,,,1083.98,,34.01999999999998,3.04293381037567,0,0,1,0,1,0,0,0,0,1,0,0
+128,Warlock,Any%,Warlock - Any%,1714.0,1995,26,4,Super Nintendo,Action,,Realtime Associates,LJN (SNES),1332.02,,381.98,22.2858809801634,0,1,0,0,1,0,0,0,0,0,1,0
+129,Little Red Hood,Any%,Little Red Hood - Any%,510.0,1989,32,4,Nintendo Entertainment System,,,,,334.17,,175.83,34.4764705882353,0,1,0,0,1,0,0,0,1,0,0,0
+130,Chiki Chiki Boys,Any%,Chiki Chiki Boys - Any%,999.0,1992,29,7,Sega Genesis,Action,,Capcom,SEGA,921.19,,77.80999999999995,7.78878878878878,0,1,0,0,1,0,0,0,0,1,0,0
+131,Cabbage Patch Kids: The Patch Puppy Rescue,Any%,Cabbage Patch Kids: The Patch Puppy Rescue - Any%,384.0,2006,15,5,Game Boy Advance,,,1st Playable Production,D3Publisher,360.6,,23.399999999999977,6.09374999999999,0,1,0,0,1,0,0,0,1,0,0,0
+132,The Legend of Zelda: Twilight Princess,Any%,The Legend of Zelda: Twilight Princess - Any%,10344.0,2006,15,205,GameCube,Action-adventure,,Nintendo,Nintendo,9886.77,Dolphin,457.2299999999996,4.42024361948956,0,0,0,1,0,0,0,1,0,0,0,1
+133,Club Penguin: Elite Penguin Force,Any%,Club Penguin: Elite Penguin Force - Any%,2052.0,2008,13,16,Nintendo DS,Adventure,,1st Playable Productions,Disney Interactive Studios,1712.28,,339.72,16.5555555555556,0,0,1,0,1,0,0,0,0,0,1,0
+134,Metal Gear,Any%,Metal Gear - Any%,1458.0,1988,33,28,Nintendo Entertainment System,,,,,1344.55,FCEUX,113.45000000000005,7.78120713305899,0,0,0,1,0,1,0,0,0,0,1,0
+135,Shadow Blasters,Any%,Shadow Blasters - Any%,464.0,1990,31,9,Sega Genesis,Platformer,,Cyclone System,Sage's Creation,431.06,,32.94,7.09913793103448,0,0,1,0,1,0,0,0,1,0,0,0
+136,Jumpin' Kid: Jack to Mame no Ki Monogatari,Any%,Jumpin' Kid: Jack to Mame no Ki Monogatari - Any%,411.0,1990,31,6,Nintendo Entertainment System,retro,,nintedo,,332.45,,78.55000000000001,19.1119221411192,0,1,0,0,1,0,0,0,1,0,0,0
+137,The Young Indiana Jones Chronicles,Any%,The Young Indiana Jones Chronicles - Any%,674.0,1992,29,4,Nintendo Entertainment System,,,,,650.83,,23.16999999999996,3.43768545994065,0,1,0,0,1,0,0,0,0,1,0,0
+138,Comix Zone,Any%,Comix Zone - Any%,551.0,1995,26,30,Sega Genesis,,,,,518.67,Gens,32.33000000000004,5.86751361161525,0,0,0,1,0,0,1,0,1,0,0,0
+139,Newer Super Mario Bros. DS,100%,Newer Super Mario Bros. DS - 100%,11584.0,2017,4,2,Nintendo DS,Platformer,,Skawo,Skawo,8140.51,DeSmuME,3443.49,29.726260359116,1,0,0,0,1,0,0,0,0,0,0,1
+140,Super Mario 64 DS,Any%,Super Mario 64 DS - Any%,598.0,2004,17,19,Nintendo DS,Platformer,,Nintendo EAD,Nintendo,492.93,DeSmuME,105.07,17.5702341137124,0,0,1,0,1,0,0,0,1,0,0,0
+141,The Conduit,Any%,The Conduit - Any%,3614.0,2009,12,3,Wii,,,,,2746.7,Dolphin,867.3000000000002,23.9983397897067,1,0,0,0,1,0,0,0,0,0,0,1
+142,Mario & Luigi: Partners in Time,Any%,Mario & Luigi: Partners in Time - Any%,9403.0,2005,16,10,Nintendo DS,,,,,6776.29,DeSmuME,2626.71,27.9348080399872,0,0,1,0,1,0,0,0,0,0,0,1
+143,Tinhead,Any%,Tinhead - Any%,2179.0,1993,28,1,Sega Genesis,,,,,1066.24,BizHawk,1112.76,51.0674621385957,1,0,0,0,1,0,0,0,0,0,1,0
+144,Pac-Man World,Any%,Pac-Man World - Any%,1549.0,1999,22,2,Game Boy Advance,,,,,1269.52,BizHawk,495.48,28.0725212464589,1,0,0,0,1,0,0,0,0,0,1,0
+145,New Super Mario Bros.,Any%,New Super Mario Bros. - Any%,1353.7,2006,15,267,Nintendo DS,,,,,1301.54,,52.16000000000008,3.85314323705401,0,0,0,1,0,0,0,1,0,0,1,0
+146,Shinobi Legions,Any%,Shinobi Legions - Any%,1507.0,1995,26,3,Sega Saturn,Action,,SEGA,SEGA,1275.08,BizHawk,231.92000000000007,15.3895155938952,1,0,0,0,1,0,0,0,0,0,1,0
+147,Conan: The Mysteries of Time,Any%,Conan: The Mysteries of Time - Any%,560.0,1991,30,2,Nintendo Entertainment System,,,,,299.77,,260.23,46.4696428571429,1,0,0,0,1,0,0,0,1,0,0,0
+148,Hagane: The Final Conflict,Any%,Hagane: The Final Conflict - Any%,873.0,1995,26,13,Super Nintendo,,,,,792.84,,80.15999999999997,9.18213058419244,0,0,1,0,1,0,0,0,0,1,0,0
+149,Aero the Acro-Bat 2,Any%,Aero the Acro-Bat 2 - Any%,1689.0,1994,27,3,Super Nintendo,,,Iguana,Sunsoft,1390.64,BizHawk,298.3599999999999,17.6648904677324,1,0,0,0,1,0,0,0,0,0,1,0
+150,Friday the 13th,Any%,Friday the 13th - Any%,173.0,1989,32,45,Nintendo Entertainment System,,,,,142.93,,30.069999999999997,17.3815028901734,0,0,0,1,0,0,0,1,1,0,0,0
+151,Adventures of Lolo 2,Any%,Adventures of Lolo 2 - Any%,1437.0,1990,31,3,Nintendo Entertainment System,,,,,1395.47,,41.52999999999997,2.89004871259568,1,0,0,0,1,0,0,0,0,0,1,0
+152,Magic Knight Rayearth,Any%,Magic Knight Rayearth - Any%,1358.0,1995,26,1,Sega Saturn,Action RPG,,,Working Designs,802.0,BizHawk,556.0,40.9425625920471,1,0,0,0,1,0,0,0,0,0,1,0
+153,Kiteretsu Daihyakka,Any%,Kiteretsu Daihyakka - Any%,716.0,1990,31,3,Nintendo Entertainment System,,,,,615.0,,101.0,14.1061452513966,1,0,0,0,1,0,0,0,0,1,0,0
+154,Formation Z,Any%,Formation Z - Any%,127.0,1985,36,8,Nintendo Entertainment System,Action,,,,111.9,,15.099999999999994,11.8897637795276,0,0,1,0,1,0,0,0,1,0,0,0
+155,Super Mario Sunshine,Any%,Super Mario Sunshine - Any%,4419.0,2002,19,1309,GameCube,Platformer,,Nintendo,Nintendo,4112.58,Dolphin,306.4200000000001,6.93414799728446,0,0,0,1,0,0,0,1,0,0,0,1
+156,Klonoa: Door to Phantomile,Any%,Klonoa: Door to Phantomile - Any%,2300.0,1997,24,39,PlayStation 2,,,,,2109.14,BizHawk,190.86000000000013,8.29826086956522,0,0,0,1,0,0,0,1,0,0,1,0
+157,Barbie Game Girl,Any%,Barbie Game Girl - Any%,535.0,1992,29,30,Game Boy Color,,,,,415.42,,119.57999999999998,22.3514018691589,0,0,0,1,0,0,1,0,1,0,0,0
+158,Street Fighter 2010: The Final Fight,Any%,Street Fighter 2010: The Final Fight - Any%,640.0,1990,31,6,Nintendo Entertainment System,,,,,410.22,,229.78,35.903125,0,1,0,0,1,0,0,0,1,0,0,0
+159,Zoda's Revenge: StarTropics II,Any%,Zoda's Revenge: StarTropics II - Any%,3563.0,1994,27,12,Nintendo Entertainment System,,,,,3276.92,BizHawk,286.0799999999999,8.02918888577042,0,0,1,0,1,0,0,0,0,0,0,1
+160,Crash Bandicoot: The Huge Adventure,Any%,Crash Bandicoot: The Huge Adventure - Any%,2205.0,2002,19,29,Game Boy Advance,,,Vicarious Visions,,1971.57,,233.4300000000001,10.5863945578231,0,0,0,1,0,0,1,0,0,0,1,0
+161,Super Mario 4,Any%,Super Mario 4 - Any%,591.0,1997,24,1,Game Boy Player,,,,,525.02,,65.98000000000002,11.1641285956007,1,0,0,0,1,0,0,0,1,0,0,0
+162,Cacoma Knight in Bizyland,Any%,Cacoma Knight in Bizyland - Any%,484.0,1992,29,1,Super Nintendo,Puzzle,,Affect,Datam Polystar,332.6,,151.4,31.2809917355372,1,0,0,0,1,0,0,0,1,0,0,0
+163,Brandish,Any%,Brandish - Any%,1466.0,1994,27,1,Super Nintendo,Action RPG,,Koei,Nihon Falcom,672.19,,793.81,54.1480218281037,1,0,0,0,1,0,0,0,0,0,1,0
+164,SpongeBob SquarePants: SuperSponge,Any%,SpongeBob SquarePants: SuperSponge - Any%,1333.0,2001,20,8,PlayStation 2,,,,,1117.78,,215.22000000000003,16.145536384096,0,0,1,0,1,0,0,0,0,0,1,0
+165,Tiny Toon Adventures: Buster's Hidden Treasure,Any%,Tiny Toon Adventures: Buster's Hidden Treasure - Any%,1335.0,1993,28,9,Sega Genesis,,,,,1162.68,,172.31999999999994,12.9078651685393,0,0,1,0,1,0,0,0,0,0,1,0
+166,Adventures of Yogi Bear,Any%,Adventures of Yogi Bear - Any%,1600.0,1994,27,2,Super Nintendo,,,,,1361.59,,238.41000000000008,14.900625,1,0,0,0,1,0,0,0,0,0,1,0
+167,Kenseiden,Any%,Kenseiden - Any%,380.0,1988,33,11,Sega Master System,,,,,325.34,,54.660000000000025,14.3842105263158,0,0,1,0,1,0,0,0,1,0,0,0
+168,Kenseiden,100%,Kenseiden - 100%,888.0,1988,33,2,Sega Master System,,,,,788.7,,99.29999999999995,11.1824324324324,1,0,0,0,1,0,0,0,0,1,0,0
+169,Digimon Battle Spirit,Any%,Digimon Battle Spirit - Any%,1035.0,2003,18,12,Game Boy Advance,,,,,839.66,,195.34000000000003,18.8734299516908,0,0,1,0,1,0,0,0,0,1,0,0
+170,Lord of the Sword,Any%,Lord of the Sword - Any%,1991.0,1988,33,1,Sega Master System,,,,,814.82,BizHawk,1176.18,59.0748367654445,1,0,0,0,1,0,0,0,0,0,1,0
+171,The Ren & Stimpy Show Presents: Stimpy's Invention,Any%,The Ren & Stimpy Show Presents: Stimpy's Invention - Any%,468.0,1993,28,7,Sega Genesis,2D Action Platformer,,BlueSky Software,SEGA,438.13,,29.870000000000005,6.38247863247863,0,1,0,0,1,0,0,0,1,0,0,0
+172,Noddy: A Day in Toyland,Any%,Noddy: A Day in Toyland - Any%,1112.0,2006,15,3,Game Boy Advance,Action,,Lucky Jump,Game Factory,1072.19,,39.809999999999945,3.58003597122302,1,0,0,0,1,0,0,0,0,1,0,0
+173,Twinkle Tale,Any%,Twinkle Tale - Any%,1130.0,1992,29,4,Sega Genesis,,,Wonder Amusement Studio,,1053.58,,76.42000000000007,6.76283185840709,0,1,0,0,1,0,0,0,0,1,0,0
+174,Rolan's Curse II,Any%,Rolan's Curse II - Any%,1449.0,1992,29,2,Game Boy,Action-adventure,,NMK,Sammy,1277.38,,171.6199999999999,11.8440303657695,1,0,0,0,1,0,0,0,0,0,1,0
+175,George Foreman's KO Boxing,Any%,George Foreman's KO Boxing - Any%,392.0,1992,29,1,Sega Master System,,,,,284.83,,107.17,27.3392857142857,1,0,0,0,1,0,0,0,1,0,0,0
+176,Porky's,Any%,Porky's - Any%,9.487,1983,38,5,Atari 2600,,,,,7.99,,1.497,15.7794877200379,0,1,0,0,1,0,0,0,1,0,0,0
+177,Rocky,Any%,Rocky - Any%,228.0,1987,34,2,Sega Master System,Boxing,,SEGA,SEGA,181.95,,46.05000000000001,20.1973684210526,1,0,0,0,1,0,0,0,1,0,0,0
+178,Psycho Fox,Any%,Psycho Fox - Any%,155.0,1989,32,3,Sega Master System,,,,,131.87,,23.129999999999995,14.9225806451613,1,0,0,0,1,0,0,0,1,0,0,0
+179,Master of Darkness,Any%,Master of Darkness - Any%,1115.0,1992,29,12,Sega Master System,Platformer,,SIMS,SEGA,1072.31,BizHawk,42.690000000000055,3.82869955156951,0,0,1,0,1,0,0,0,0,1,0,0
+180,El Viento,Any%,El Viento - Any%,750.0,1991,30,5,Sega Genesis,Platformer,,Wolf Team,SEGA,580.6,,169.39999999999998,22.5866666666667,0,1,0,0,1,0,0,0,0,1,0,0
+181,Holy Diver,Any%,Holy Diver - Any%,1032.0,1989,32,7,Nintendo Entertainment System,,,,,866.44,,165.55999999999997,16.0426356589147,0,1,0,0,1,0,0,0,0,1,0,0
+182,Paper Mario,Any%,Paper Mario - Any%,5966.0,2000,21,96,Nintendo 64,RPG,,Intelligent Systems,Nintendo,5440.15,,525.8500000000004,8.81411330874959,0,0,0,1,0,0,0,1,0,0,0,1
+183,Paper Mario,All Cards,Paper Mario - All Cards,9931.0,2000,21,95,Nintendo 64,RPG,,Intelligent Systems,Nintendo,9033.83,BizHawk,897.1700000000001,9.03403484039875,0,0,0,1,0,0,0,1,0,0,0,1
+184,Metroid Prime Hunters,Any%,Metroid Prime Hunters - Any%,4167.0,2006,15,2,Nintendo DS,,,,,2830.32,DeSmuME,1336.68,32.0777537796976,1,0,0,0,1,0,0,0,0,0,0,1
+185,Target Earth,Any%,Target Earth - Any%,1475.0,1990,31,1,Sega Genesis,,,,,1384.6,,90.40000000000008,6.12881355932204,1,0,0,0,1,0,0,0,0,0,1,0
+186,F-Zero,Knight League,F-Zero - Knight League,744.0,1990,31,79,Super Nintendo,Racing,,,,736.89,,7.110000000000014,0.955645161290324,0,0,0,1,0,0,0,1,0,1,0,0
+187,F-Zero,Queen League,F-Zero - Queen League,700.0,1990,31,38,Super Nintendo,Racing,,,,687.87,lsnes,12.129999999999995,1.73285714285714,0,0,0,1,0,0,0,1,0,1,0,0
+188,Noddy and the Birthday Party,Any%,Noddy and the Birthday Party - Any%,473.0,2000,21,8,Game Boy Color,Platform Game,,Tiertex Design Studios,BBC Multimedia,453.68,,19.319999999999997,4.0845665961945,0,0,1,0,1,0,0,0,1,0,0,0
+189,Kung-Fu Master,Any%,Kung-Fu Master - Any%,246.0,1990,31,18,Game Boy Player,,,,,198.44,,47.56,19.3333333333333,0,0,1,0,1,0,0,0,1,0,0,0
+190,Mega Man X6,Any%,Mega Man X6 - Any%,1858.0,2001,20,16,GameCube,,,Capcom Production Studio 3,Capcom,1534.02,PCSX,323.98,17.4370290635092,0,0,1,0,1,0,0,0,0,0,1,0
+191,Mega Man X6,100%,Mega Man X6 - 100%,4155.0,2001,20,10,GameCube,,,Capcom Production Studio 3,Capcom,3407.18,PCSX,747.8200000000002,17.9980746089049,0,0,1,0,1,0,0,0,0,0,0,1
+192,Final Fantasy Tactics Advance,Any%,Final Fantasy Tactics Advance - Any%,14215.0,2003,18,21,Game Boy Advance,RPG,,Square,Square,10237.76,,3977.24,27.9791769257826,0,0,0,1,1,0,0,0,0,0,0,1
+193,Sabrina the Teenage Witch: Potion Commotion,Any%,Sabrina the Teenage Witch: Potion Commotion - Any%,1937.0,2002,19,3,Game Boy Advance,,,,,1444.71,,492.29,25.4150748580279,1,0,0,0,1,0,0,0,0,0,1,0
+194,Platoon,Any%,Platoon - Any%,479.0,1988,33,4,Nintendo Entertainment System,,,,,457.13,,21.870000000000005,4.56576200417537,0,1,0,0,1,0,0,0,1,0,0,0
+195,Drill Dozer,Any%,Drill Dozer - Any%,8269.0,2005,16,4,Wii Virtual Console,Action,,Game Freak,Nintendo,6602.03,,1666.9700000000005,20.159269561011,0,1,0,0,1,0,0,0,0,0,0,1
+196,Super Glove Ball,Any%,Super Glove Ball - Any%,555.0,1990,31,3,Nintendo Entertainment System,,,,,128.24,,426.76,76.8936936936937,1,0,0,0,1,0,0,0,1,0,0,0
+197,Tryrush Deppy,Any%,Tryrush Deppy - Any%,1619.0,1996,25,4,Sega Saturn,Platformer,,System Supply N-Tech,Nihon Create,1301.9,BizHawk,317.0999999999999,19.58616429895,0,1,0,0,1,0,0,0,0,0,1,0
+198,Boxxle,Any%,Boxxle - Any%,21790.0,1989,32,1,Game Boy,,,,,17930.2,,3859.7999999999993,17.713630105553,1,0,0,0,1,0,0,0,0,0,0,1
+199,Cyborg Hunter,Any%,Cyborg Hunter - Any%,771.0,1988,33,1,Sega Master System,Action,,Sega R&D 2,"Sega, Activision",553.71,,217.29,28.1828793774319,1,0,0,0,1,0,0,0,0,1,0,0
+200,Final Zone II,Any%,Final Zone II - Any%,583.0,1990,31,2,TurboGrafx-16 CD-ROM,,,,,487.11,,95.89,16.4476843910806,1,0,0,0,1,0,0,0,1,0,0,0
+201,Kung Fu Kid,Any%,Kung Fu Kid - Any%,491.0,1987,34,8,Sega Master System,,,,,483.44,,7.560000000000002,1.53971486761711,0,0,1,0,1,0,0,0,1,0,0,0
+202,One Piece Mansion,Any%,One Piece Mansion - Any%,311.0,2001,20,1,PlayStation,"Puzzle, strategy",,Capcom,Capcom,284.45,,26.55000000000001,8.53697749196142,1,0,0,0,1,0,0,0,1,0,0,0
+203,Super Adventure Island II,Any%,Super Adventure Island II - Any%,2733.0,1994,27,15,Super Nintendo,2D Platformer,,Hudson Soft,Hudson Soft,2477.22,,255.7800000000002,9.35894621295281,0,0,1,0,1,0,0,0,0,0,0,1
+204,Madou King Granzort,Any%,Madou King Granzort - Any%,517.0,1990,31,3,TurboGrafx-16/PC Engine,Action,,Mutech,Hudson Soft,475.91,,41.089999999999975,7.94777562862669,1,0,0,0,1,0,0,0,1,0,0,0
+205,Sonic & Knuckles,Knuckles,Sonic & Knuckles - Knuckles,714.0,1994,27,30,GameCube,Action,Sonic 3 modified,Sonic Team,SEGA,692.46,,21.539999999999964,3.01680672268907,0,0,0,1,0,0,1,0,0,1,0,0
+206,Ninja Kid,Any%,Ninja Kid - Any%,627.0,1986,35,1,Nintendo Entertainment System,,,,,253.25,,373.75,59.6092503987241,1,0,0,0,1,0,0,0,1,0,0,0
+207,Double Dragon III: The Sacred Stones,Any%,Double Dragon III: The Sacred Stones - Any%,853.0,1991,30,19,Nintendo Entertainment System,,,,,603.77,FCEUX,249.23,29.2180539273154,0,0,1,0,1,0,0,0,0,1,0,0
+208,Kid Niki: Radical Ninja,Any%,Kid Niki: Radical Ninja - Any%,656.0,1986,35,11,Nintendo Entertainment System,,,,,584.39,,71.61000000000001,10.9161585365854,0,0,1,0,1,0,0,0,1,0,0,0
+209,Golden Axe Warrior,Any%,Golden Axe Warrior - Any%,4297.0,1991,30,2,Sega Master System,Action-adventure,,,,1849.1,BizHawk,2447.9,56.967651850128,1,0,0,0,1,0,0,0,0,0,0,1
+210,Yu-Gi-Oh! Forbidden Memories,Any%,Yu-Gi-Oh! Forbidden Memories - Any%,4028.0,1999,22,115,PlayStation 2,,,,,2432.2,,1595.8,39.617676266137,0,0,0,1,0,0,0,1,0,0,0,1
+211,The Little Mermaid,Any%,The Little Mermaid - Any%,407.291,1991,30,196,Nintendo Entertainment System,,,,,402.23,,5.060999999999979,1.24260049939723,0,0,0,1,0,0,0,1,1,0,0,0
+212,Cobra Triangle,Any%,Cobra Triangle - Any%,1029.0,1989,32,12,Nintendo Entertainment System,,,,,1003.73,,25.269999999999985,2.45578231292517,0,0,1,0,1,0,0,0,0,1,0,0
+213,Urban Champion,Any%,Urban Champion - Any%,29.084,1986,35,35,Nintendo Entertainment System,,,,,26.84,,2.244,7.71558245083207,0,0,0,1,0,0,0,1,1,0,0,0
+214,Rayman Origins,Any%,Rayman Origins - Any%,3173.0,2011,10,17,Nintendo 3DS,Platformer,,Ubisoft Montpellier,Ubisoft Entertainment,2731.3,Dolphin,441.6999999999998,13.9205798928459,0,0,1,0,1,0,0,0,0,0,0,1
+215,The Goonies II,Any%,The Goonies II - Any%,923.033,1987,34,53,Nintendo Entertainment System,,,,,653.64,FCEUX,269.393,29.1856304162473,0,0,0,1,0,0,0,1,0,1,0,0
+216,The Goonies II,100%,The Goonies II - 100%,1386.0,1987,34,4,Nintendo Entertainment System,,,,,1186.36,,199.6400000000001,14.4040404040404,0,1,0,0,1,0,0,0,0,0,1,0
+217,The Battle of Olympus,Any%,The Battle of Olympus - Any%,1649.0,1989,32,2,Nintendo Entertainment System,,,,,595.37,FCEUX,1053.63,63.8950879320801,1,0,0,0,1,0,0,0,0,0,1,0
+218,Alex Kidd in Shinobi World,Any%,Alex Kidd in Shinobi World - Any%,431.0,1990,31,12,Wii Virtual Console,Action,,SEGA,SEGA,327.84,BizHawk,103.16000000000004,23.9350348027842,0,0,1,0,1,0,0,0,1,0,0,0
+219,Punch-Out!!,Any%,Punch-Out!! - Any%,1289.64,2009,12,4,Wii U,Boxing,,Next Level Games,Nintendo,206.15,,1083.49,84.0149188920939,0,1,0,0,1,0,0,0,0,0,1,0
+220,Fire Emblem: Shadow Dragon,Any%,Fire Emblem: Shadow Dragon - Any%,993.0,2009,12,8,Nintendo DS,,,,,527.83,,465.17,46.8449144008056,0,0,1,0,1,0,0,0,0,1,0,0
+221,Vice: Project Doom,Any%,Vice: Project Doom - Any%,796.0,1991,30,12,Nintendo Entertainment System,,,,,726.34,FCEUX,69.65999999999997,8.75125628140703,0,0,1,0,1,0,0,0,0,1,0,0
+222,The Goonies,Any%,The Goonies - Any%,302.0,1986,35,13,Nintendo Entertainment System,Action-adventure,,Konami,Konami,147.91,,154.09,51.023178807947,0,0,1,0,1,0,0,0,1,0,0,0
+223,Faxanadu,Any%,Faxanadu - Any%,1580.0,1987,34,24,Nintendo Entertainment System,Adventure,,Falcom,Hudson Soft,1384.69,BizHawk,195.30999999999997,12.3613924050633,0,0,0,1,0,1,0,0,0,0,1,0
+224,Hudson Hawk,Any%,Hudson Hawk - Any%,455.0,1991,30,4,Nintendo Entertainment System,,,,,423.88,,31.120000000000005,6.83956043956044,0,1,0,0,1,0,0,0,1,0,0,0
+225,The Legend of Zelda,Any%,The Legend of Zelda - Any%,1656.0,1986,35,43,Nintendo Entertainment System,,,Nintendo,Nintendo,1337.53,,318.47,19.2312801932367,0,0,0,1,0,0,0,1,0,0,1,0
+226,An American Tail: Fievel Goes West,Any%,An American Tail: Fievel Goes West - Any%,1064.0,1994,27,4,Super Nintendo,Platform,,Hudson Soft,Hudson Soft,1030.0,,34.0,3.19548872180451,0,1,0,0,1,0,0,0,0,1,0,0
+227,Gomola Speed,Any%,Gomola Speed - Any%,2255.0,1990,31,1,TurboGrafx-16/PC Engine,,,,,765.34,BizHawk,1489.66,66.060310421286,1,0,0,0,1,0,0,0,0,0,1,0
+228,Mega Man X2,Any%,Mega Man X2 - Any%,1946.0,1994,27,205,Super Nintendo,Platformer,,Capcom,Capcom,1866.34,,79.66000000000008,4.09352517985612,0,0,0,1,0,0,0,1,0,0,1,0
+229,The Bugs Bunny Birthday Blowout,Any%,The Bugs Bunny Birthday Blowout - Any%,1558.0,1990,31,11,Nintendo Entertainment System,,,,,1544.26,,13.740000000000007,0.881899871630296,0,0,1,0,1,0,0,0,0,0,1,0
+230,Mega Man X3,Any%,Mega Man X3 - Any%,2365.0,1995,26,74,Super Nintendo,Capcom,,Capcom,Capcom,2274.5,,90.5,3.82663847780127,0,0,0,1,0,0,0,1,0,0,0,1
+231,Mega Man X3,100%,Mega Man X3 - 100%,2657.0,1995,26,80,Super Nintendo,Capcom,,Capcom,Capcom,2536.24,BizHawk,120.76000000000022,4.54497553631917,0,0,0,1,0,0,0,1,0,0,0,1
+232,Rockman EXE WS,Any%,Rockman EXE WS - Any%,785.0,2003,18,7,WonderSwan,Platformer,,Capcom,Capcom,684.95,,100.04999999999995,12.7452229299363,0,1,0,0,1,0,0,0,0,1,0,0
+233,Bubble Ghost,Any%,Bubble Ghost - Any%,316.0,1990,31,34,Game Boy,,,Infogrames,,284.22,,31.779999999999973,10.0569620253164,0,0,0,1,0,0,0,1,1,0,0,0
+234,Bible Buffet,Any%,Bible Buffet - Any%,377.0,1993,28,13,Nintendo Entertainment System,,,,,213.28,,163.72,43.4270557029178,0,0,1,0,1,0,0,0,1,0,0,0
+235,The Flintstones: The Rescue of Dino & Hoppy,Any%,The Flintstones: The Rescue of Dino & Hoppy - Any%,889.0,1991,30,12,Nintendo Entertainment System,,,,,812.54,FCEUX,76.46000000000004,8.60067491563555,0,0,1,0,1,0,0,0,0,1,0,0
+236,The Ninja,Any%,The Ninja - Any%,352.0,1986,35,4,Sega Master System,Run and Gun,,SEGA,SEGA,316.54,,35.45999999999998,10.0738636363636,0,1,0,0,1,0,0,0,1,0,0,0
+237,Mega Man X,Any%,Mega Man X - Any%,1854.0,1993,28,208,Super Nintendo,Platformer,,Capcom,Capcom,1748.45,,105.54999999999995,5.69309600862999,0,0,0,1,0,0,0,1,0,0,1,0
+238,Mega Man X,100%,Mega Man X - 100%,2094.15,1993,28,410,Super Nintendo,Platformer,,Capcom,Capcom,1987.13,,107.01999999999998,5.11042666475658,0,0,0,1,0,0,0,1,0,0,1,0
+239,Stuart Little 2,Any%,Stuart Little 2 - Any%,1758.0,2002,19,3,Game Boy Advance,,,,,1378.18,,829.82,37.5824275362319,1,0,0,0,1,0,0,0,0,0,1,0
+240,The Combatribes,Any%,The Combatribes - Any%,1444.0,1990,31,3,Super Nintendo,,,,,626.42,,817.58,56.6191135734072,1,0,0,0,1,0,0,0,0,0,1,0
+241,Inversion,Any%,Inversion - Any%,7133.0,2012,9,1,PlayStation 3,,,,,318.91,,6814.09,95.5290901443993,1,0,0,0,1,0,0,0,0,0,0,1
+242,Pac-Man World 2,Any%,Pac-Man World 2 - Any%,2411.0,2002,19,70,GameCube,,,Namco,Namco,2365.07,Dolphin,45.92999999999984,1.90501866445458,0,0,0,1,0,0,0,1,0,0,0,1
+243,Dragon Warrior IV,Any%,Dragon Warrior IV - Any%,21122.0,1990,31,14,Nintendo Entertainment System,JRPG,,Chunsoft,Enix,7086.28,,14035.72,66.4507148944229,0,0,1,0,1,0,0,0,0,0,0,1
+244,DinoCity,Any%,DinoCity - Any%,1201.0,1992,29,5,Super Nintendo,,,,,1076.39,,124.6099999999999,10.3755203996669,0,1,0,0,1,0,0,0,0,1,0,0
+245,007: Agent Under Fire,00 Agent,007: Agent Under Fire - 00 Agent,2658.0,2001,20,1,GameCube,FPS,id Tech 3,Electronic Arts,Electronic Arts,2210.07,Dolphin,447.92999999999984,16.852144469526,1,0,0,0,1,0,0,0,0,0,0,1
+246,Spider-Man 3,Any%,Spider-Man 3 - Any%,6882.0,2007,14,3,PlayStation 3,,,,,824.01,BizHawk,6057.99,88.0265911072363,1,0,0,0,1,0,0,0,0,0,0,1
+247,Sonic Advance 2,Knuckles,Sonic Advance 2 - Knuckles,1736.0,2002,19,2,Game Boy Advance,Action,,Sonic Team,SEGA,1232.08,VBA,503.92,29.0276497695853,1,0,0,0,1,0,0,0,0,0,1,0
+248,Rockin' Kats,Any%,Rockin' Kats - Any%,1085.0,1991,30,20,Nintendo Entertainment System,,,,,993.71,,91.28999999999996,8.41382488479262,0,0,0,1,1,0,0,0,0,1,0,0
+249,Wonder Boy III: The Dragon's Trap,Any%,Wonder Boy III: The Dragon's Trap - Any%,1692.0,1989,32,6,Wii Virtual Console,,,,,1304.16,,387.8399999999999,22.9219858156028,0,1,0,0,1,0,0,0,0,0,1,0
+250,Super Star Wars: The Empire Strikes Back,Any%,Super Star Wars: The Empire Strikes Back - Any%,2312.0,1993,28,4,Super Nintendo,,,,,1811.8,,500.2000000000001,21.6349480968858,0,1,0,0,1,0,0,0,0,0,1,0
+251,Pulseman,Any%,Pulseman - Any%,1894.0,1994,27,2,Wii Virtual Console,,,,,1516.02,,377.98,19.9567053854277,1,0,0,0,1,0,0,0,0,0,1,0
+252,The Legend of Zelda: Oracle of Ages,Any%,The Legend of Zelda: Oracle of Ages - Any%,4948.0,2001,20,38,Game Boy Color,Action-adventure,,Capcom,Nintendo,4844.32,BizHawk,103.68000000000028,2.09539207760712,0,0,0,1,0,0,0,1,0,0,0,1
+253,Postman Pat and the Greendale Rocket,100%,Postman Pat and the Greendale Rocket - 100%,1833.0,2007,14,0,Game Boy Advance,,,,,1710.1,,122.90000000000008,6.70485542825969,1,0,0,0,1,0,0,0,0,0,1,0
+254,Kaizo Mario Bros. 3,Any%,Kaizo Mario Bros. 3 - Any%,1192.0,2015,6,5,Nintendo Entertainment System,,,,,882.71,FCEUX,309.29,25.9471476510067,0,1,0,0,1,0,0,0,0,1,0,0
+255,Mega Man 6,Any%,Mega Man 6 - Any%,2048.0,1993,28,8,Nintendo Entertainment System,,,,,1809.7,FCEUX,238.29999999999995,11.6357421875,0,0,1,0,1,0,0,0,0,0,1,0
+256,The Mask,Any%,The Mask - Any%,447.0,1995,26,7,Super Nintendo,Platformer,,Black Pearl Software,Black Pearl Software,326.55,lsnes,120.45,26.9463087248322,0,1,0,0,1,0,0,0,1,0,0,0
+257,Warsong,Any%,Warsong - Any%,8653.0,1991,30,1,Sega Genesis,Strategy,,NCS,Treco,7448.31,,1204.6899999999996,13.9222235062984,1,0,0,0,1,0,0,0,0,0,0,1
+258,Commander Keen: Keen Dreams,Any%,Commander Keen: Keen Dreams - Any%,258.35,1991,30,3,MS-DOS,,,,,255.13,,3.2200000000000277,1.24637120185796,1,0,0,0,1,0,0,0,1,0,0,0
+259,Monster House,Any%,Monster House - Any%,3744.0,2006,15,5,GameCube,Third-Person Shooter,,Artificial Mind and Movement,THQ,352.32,,3391.68,90.5897435897436,0,1,0,0,1,0,0,0,0,0,0,1
+260,G.I. Joe: The Atlantis Factor,Any%,G.I. Joe: The Atlantis Factor - Any%,533.0,1992,29,10,Nintendo Entertainment System,,,,,435.28,,97.72000000000004,18.3339587242026,0,0,1,0,1,0,0,0,1,0,0,0
+261,Dr. Jekyll and Mr. Hyde,Any%,Dr. Jekyll and Mr. Hyde - Any%,1191.0,1988,33,5,Nintendo Entertainment System,Action,,Advance Communication Co.,Toho,1011.25,,179.75,15.0923593618808,0,1,0,0,1,0,0,0,0,1,0,0
+262,Mickey Mousecapade,Any%,Mickey Mousecapade - Any%,446.0,1988,33,26,Nintendo Entertainment System,,,,,436.58,,9.420000000000016,2.11210762331839,0,0,0,1,0,1,0,0,1,0,0,0
+263,Xexyz,Any%,Xexyz - Any%,1598.0,1990,31,4,Nintendo Entertainment System,Platformer,,Atlus,Hudson Soft,1423.62,,174.3800000000001,10.9123904881101,0,1,0,0,1,0,0,0,0,0,1,0
+264,StarTropics,Any%,StarTropics - Any%,3814.96,1990,31,55,Nintendo Entertainment System,Action-adventure,,Nintendo,Nintendo,3692.37,,122.59000000000016,3.21340197538113,0,0,0,1,0,0,0,1,0,0,0,1
+265,Mario vs. Donkey Kong,Any%,Mario vs. Donkey Kong - Any%,2557.0,2004,17,23,Game Boy Advance,,,,,2243.32,BizHawk,313.67999999999984,12.2675009777082,0,0,0,1,0,1,0,0,0,0,0,1
+266,The Guardian Legend,Any%,The Guardian Legend - Any%,2997.0,1988,33,11,Nintendo Entertainment System,,,,,2558.15,,438.8499999999999,14.642976309643,0,0,1,0,1,0,0,0,0,0,0,1
+267,Cheese Cat-Astrophe Starring Speedy Gonzales,Any%,Cheese Cat-Astrophe Starring Speedy Gonzales - Any%,844.0,1995,26,1,Sega Genesis,,,,,787.26,,56.74000000000001,6.72274881516588,1,0,0,0,1,0,0,0,0,1,0,0
+268,Garfield and His Nine Lives,Any%,Garfield and His Nine Lives - Any%,641.967,2006,15,5,Game Boy Advance,Platformer,,Lucky Jump Games,The Game Factory,607.79,,34.17700000000002,5.32379390217878,0,1,0,0,1,0,0,0,1,0,0,0
+269,Mega Man 9,Any%,Mega Man 9 - Any%,1889.0,2008,13,36,PlayStation 3,,,,,1820.98,Dolphin,68.01999999999998,3.60084700899947,0,0,0,1,0,0,0,1,0,0,1,0
+270,Johnny Test,Any%,Johnny Test - Any%,1929.0,2011,10,4,Nintendo DS,Platformer,,,,1195.68,,733.32,38.0155520995334,0,1,0,0,1,0,0,0,0,0,1,0
+271,Dementium: The Ward,Any%,Dementium: The Ward - Any%,3312.0,2007,14,1,Nintendo DS,,,,,2216.56,,1095.44,33.0748792270531,1,0,0,0,1,0,0,0,0,0,0,1
+272,Super Star Wars: Return of the Jedi,Any%,Super Star Wars: Return of the Jedi - Any%,1739.0,1994,27,5,Super Nintendo,,,,,1397.12,lsnes,341.8800000000001,19.6595744680851,0,1,0,0,1,0,0,0,0,0,1,0
+273,Adventure Time: Hey Ice King! Why'd You Steal Our Garbage?!!,Any%,Adventure Time: Hey Ice King! Why'd You Steal Our Garbage?!! - Any%,3314.0,2012,9,2,Nintendo DS,Action,EngineBlack,WayForward Technologies,D3 Publisher,2924.36,DeSmuME,389.6399999999999,11.7573928786964,1,0,0,0,1,0,0,0,0,0,0,1
+274,Daffy Duck: The Marvin Missions,Any%,Daffy Duck: The Marvin Missions - Any%,911.0,1993,28,2,Super Nintendo,,,,,89.44,BizHawk,821.56,90.1822173435785,1,0,0,0,1,0,0,0,0,1,0,0
+275,Super Monkey Ball Jr.,Master,Super Monkey Ball Jr. - Master,128.0,2002,19,1,Game Boy Advance,,,,,109.31,,18.69,14.6015625,1,0,0,0,1,0,0,0,1,0,0,0
+276,Kabuki Quantum Fighter,Any%,Kabuki Quantum Fighter - Any%,589.0,1990,31,41,Nintendo Entertainment System,,,,,554.19,FCEUX,34.809999999999945,5.91001697792868,0,0,0,1,0,0,0,1,1,0,0,0
+277,Danan: The Jungle Fighter,Any%,Danan: The Jungle Fighter - Any%,494.0,1990,31,2,Sega Master System,,,,,438.15,,55.85000000000002,11.3056680161943,1,0,0,0,1,0,0,0,1,0,0,0
+278,Mortal Kombat Mythologies: Sub-Zero,Any%,Mortal Kombat Mythologies: Sub-Zero - Any%,1946.0,1997,24,8,Nintendo 64,Action-adventure,,Midway Games,Midway Games,1557.93,,388.07,19.9419321685509,0,0,1,0,1,0,0,0,0,0,1,0
+279,Zapper: One Wicked Cricket!,Any%,Zapper: One Wicked Cricket! - Any%,1039.63,2002,19,7,GameCube,Platform,,Blitz Games,Infogrames,1007.77,,31.860000000000127,3.06455181170225,0,1,0,0,1,0,0,0,0,1,0,0
+280,Splatterhouse: Wanpaku Graffiti,Any%,Splatterhouse: Wanpaku Graffiti - Any%,1033.0,1989,32,37,Nintendo Entertainment System,,,,,1016.97,,16.029999999999973,1.55179090029041,0,0,0,1,0,0,0,1,0,1,0,0
+281,Ninja Golf,Any%,Ninja Golf - Any%,775.0,1990,31,3,Atari 7800,,,,,689.67,,85.33000000000004,11.0103225806452,1,0,0,0,1,0,0,0,0,1,0,0
+282,Super Pitfall,Any%,Super Pitfall - Any%,299.0,1987,34,38,Nintendo Entertainment System,,,,,282.04,FCEUX,16.95999999999998,5.67224080267558,0,0,0,1,0,0,0,1,1,0,0,0
+283,Castle of Dragon,Any%,Castle of Dragon - Any%,461.0,1990,31,5,Nintendo Entertainment System,,,,,388.44,,72.56,15.7396963123644,0,1,0,0,1,0,0,0,1,0,0,0
+284,Frankenstein: The Monster Returns,Any%,Frankenstein: The Monster Returns - Any%,651.0,1990,31,6,Nintendo Entertainment System,,,,,579.48,,71.51999999999998,10.9861751152074,0,1,0,0,1,0,0,0,1,0,0,0
+285,Club Penguin: Elite Penguin Force: Herbert's Revenge,Any%,Club Penguin: Elite Penguin Force: Herbert's Revenge - Any%,2061.0,2010,11,10,Nintendo DS,Adventure,,1st Playable Productions,Disney Interactive Studios,1660.1,,400.9000000000001,19.4517224648229,0,0,1,0,1,0,0,0,0,0,1,0
+286,The Adventures of Rad Gravity,Any%,The Adventures of Rad Gravity - Any%,1279.0,1990,31,2,Nintendo Entertainment System,,,,,1005.69,,273.30999999999995,21.3690383111806,1,0,0,0,1,0,0,0,0,0,1,0
+287,Jackie Chan's Action Kung Fu,Any%,Jackie Chan's Action Kung Fu - Any%,1015.0,1990,31,21,Nintendo Entertainment System,,,,,992.75,FCEUX,22.25,2.19211822660099,0,0,0,1,1,0,0,0,0,1,0,0
+288,Atlantis no Nazo,Any%,Atlantis no Nazo - Any%,147.41,1986,35,11,Nintendo Entertainment System,,,,,140.12,,7.289999999999992,4.94539040770639,0,0,1,0,1,0,0,0,1,0,0,0
+289,Donkey Kong 5: The Journey of Over Time and Space,Any%,Donkey Kong 5: The Journey of Over Time and Space - Any%,301.78,2012,9,9,Game Boy Color,Bootleg,,Sintax,,288.54,,13.239999999999952,4.38730200808535,0,0,1,0,1,0,0,0,1,0,0,0
+290,The Legend of Spyro: The Eternal Night,Any%,The Legend of Spyro: The Eternal Night - Any%,6814.0,2007,14,2,Wii U,,,,,1557.76,,5256.24,77.1388318168477,1,0,0,0,1,0,0,0,0,0,0,1
+291,Orb-3D,Any%,Orb-3D - Any%,1909.0,1990,31,3,Nintendo Entertainment System,Action-Puzzle,,The Software Toolworks,Hi-Tech Expressions,1270.86,,638.14,33.4279727606077,1,0,0,0,1,0,0,0,0,0,1,0
+292,Super Mario RPG: Legend of the Seven Stars,Any%,Super Mario RPG: Legend of the Seven Stars - Any%,9973.0,1996,25,101,Super Nintendo,,,,,8823.47,,1149.5300000000009,11.5264213376116,0,0,0,1,0,0,0,1,0,0,0,1
+293,Phantasy Star III: Generations of Doom,Any%,Phantasy Star III: Generations of Doom - Any%,7122.0,1990,31,8,Wii Virtual Console,Role-playing Game,,,,5875.98,,1246.0200000000004,17.4953664700927,0,0,1,0,1,0,0,0,0,0,0,1
+294,Doug's Big Game,Any%,Doug's Big Game - Any%,236.0,2000,21,3,Game Boy Color,,,,,219.91,,16.090000000000003,6.81779661016949,1,0,0,0,1,0,0,0,1,0,0,0
+295,The Simpsons: Bart vs. the Space Mutants,Any%,The Simpsons: Bart vs. the Space Mutants - Any%,940.0,1991,30,11,Nintendo Entertainment System,,,,,778.9,,161.10000000000002,17.1382978723404,0,0,1,0,1,0,0,0,0,1,0,0
+296,Pocky & Rocky,Any%,Pocky & Rocky - Any%,1178.0,1992,29,7,Super Nintendo,,,,,1120.17,BizHawk,57.82999999999993,4.90916808149405,0,1,0,0,1,0,0,0,0,1,0,0
+297,Uchuu no Kishi Tekkaman Blade,Any%,Uchuu no Kishi Tekkaman Blade - Any%,514.0,1993,28,1,Game Boy,,,,,496.05,,17.94999999999999,3.49221789883268,1,0,0,0,1,0,0,0,1,0,0,0
+298,Sonic Adventure 2: Battle,Hero Story,Sonic Adventure 2: Battle - Hero Story,1872.13,2001,20,666,GameCube,3D Platformer,Adventure Engine,Sonic Team,SEGA,1632.38,Dolphin,239.75,12.8062687954362,0,0,0,1,0,0,0,1,0,0,1,0
+299,Ironsword: Wizards & Warriors II,Any%,Ironsword: Wizards & Warriors II - Any%,508.0,1988,33,21,Nintendo Entertainment System,,,,,434.32,,73.68,14.503937007874,0,0,0,1,1,0,0,0,1,0,0,0
+300,MDK,Any%,MDK - Any%,2031.0,1997,24,9,PlayStation,,,,,1867.28,,163.72000000000003,8.06105366814377,0,0,1,0,1,0,0,0,0,0,1,0
+301,Shining in the Darkness,Any%,Shining in the Darkness - Any%,9202.0,1991,30,3,Sega Genesis,,,,,2607.2,,6594.8,71.6670289067594,1,0,0,0,1,0,0,0,0,0,0,1
+302,The Karate Kid,Any%,The Karate Kid - Any%,238.658,1987,34,53,Nintendo Entertainment System,Action,,Atlus,LJN,189.12,,49.53799999999998,20.7568989935389,0,0,0,1,0,0,0,1,1,0,0,0
+303,Mercs,Any%,Mercs - Any%,597.0,1990,31,5,Arcade,,,,,592.9,,4.100000000000023,0.686767169179233,0,1,0,0,1,0,0,0,1,0,0,0
+304,Catwoman,Any%,Catwoman - Any%,4285.0,2004,17,3,GameCube,Action,,EA Games,,1486.23,,2798.77,65.3155192532089,1,0,0,0,1,0,0,0,0,0,0,1
+305,Super Mario World 2: Yoshi's Island,100%,Super Mario World 2: Yoshi's Island - 100%,8482.0,1995,26,56,Super Nintendo,Platformer,,,Nintendo,7175.12,snes9x,1306.88,15.4076868663051,0,0,0,1,0,0,0,1,0,0,0,1
+306,Avatar: The Last Airbender,Any%,Avatar: The Last Airbender - Any%,7843.0,2006,15,2,GameCube,Action-adventure,,THQ Studio Australia,THQ,3338.04,,4504.96,57.4392451867908,1,0,0,0,1,0,0,0,0,0,0,1
+307,Wario Land: Super Mario Land 3,Any%,Wario Land: Super Mario Land 3 - Any%,1372.0,1994,27,27,Game Boy Color,Platformer,,,Nintendo,1183.51,BizHawk,188.49,13.7383381924198,0,0,0,1,0,1,0,0,0,0,1,0
+308,Mr. Nutz,Any%,Mr. Nutz - Any%,1765.0,1994,27,1,Super Nintendo,,,,,1753.85,,11.150000000000093,0.631728045325784,1,0,0,0,1,0,0,0,0,0,1,0
+309,Mr. Nutz,100%,Mr. Nutz - 100%,2561.0,1994,27,1,Super Nintendo,,,,,2511.6,,49.40000000000009,1.92893401015229,1,0,0,0,1,0,0,0,0,0,0,1
+310,Madagascar,Any%,Madagascar - Any%,2016.0,2005,16,52,GameCube,Platformer,Renderware,Toys for Bob (Consoles),Activision,1692.3,,323.70000000000005,16.0565476190476,0,0,0,1,0,0,0,1,0,0,1,0
+311,Super Star Wars,Any%,Super Star Wars - Any%,1470.0,1992,29,14,Super Nintendo,,,,,1116.01,BizHawk,353.99,24.0809523809524,0,0,1,0,1,0,0,0,0,0,1,0
+312,Spyro: Attack of the Rhynocs,Any%,Spyro: Attack of the Rhynocs - Any%,1226.0,2003,18,7,Game Boy Advance,,,Digital Eclipse,Vivendi Universal Games,999.87,,226.13,18.4445350734095,0,1,0,0,1,0,0,0,0,1,0,0
+313,Zero Tolerance,Any%,Zero Tolerance - Any%,1326.0,1994,27,1,Sega Genesis,,,,,1192.65,,133.3499999999999,10.0565610859728,1,0,0,0,1,0,0,0,0,0,1,0
+314,David Crane's A Boy and His Blob: Trouble on Blobolonia,Any%,David Crane's A Boy and His Blob: Trouble on Blobolonia - Any%,96.429,1989,32,37,Nintendo Entertainment System,,,,,79.14,,17.289,17.9292536477616,0,0,0,1,0,0,0,1,1,0,0,0
+315,Mystical Ninja Starring Goemon,Any%,Mystical Ninja Starring Goemon - Any%,4325.0,1997,24,41,Nintendo 64,,,,,3809.47,Mupen64,515.5300000000002,11.9197687861272,0,0,0,1,0,0,0,1,0,0,0,1
+316,Crash Bandicoot,Any%,Crash Bandicoot - Any%,2392.0,1996,25,174,PlayStation 2,,,Naughty Dog,,2179.85,PSXjin,212.1500000000001,8.86914715719064,0,0,0,1,0,0,0,1,0,0,0,1
+317,Anubis II,Any%,Anubis II - Any%,1179.0,2005,16,1,PlayStation 2,,,,,137.48,,1041.52,88.3392705682782,1,0,0,0,1,0,0,0,0,1,0,0
+318,Oddworld: Munch's Oddysee,Any%,Oddworld: Munch's Oddysee - Any%,2710.0,2001,20,2,Game Boy Advance,Platformer,ALIVE 2.0,Oddworld Inhabitants,Oddworld Inhabitants,699.58,,1318.838,65.3401822615534,1,0,0,0,1,0,0,0,0,0,0,1
+319,Oddworld Adventures,Any%,Oddworld Adventures - Any%,496.0,1998,23,4,Game Boy,Platformer,,Saffire,Oddworld Inhabitants,451.95,,44.05000000000001,8.88104838709678,0,1,0,0,1,0,0,0,1,0,0,0
+320,Titenic,Any%,Titenic - Any%,263.0,1998,23,8,Nintendo Entertainment System,,,,,234.28,,28.72,10.9201520912548,0,0,1,0,1,0,0,0,1,0,0,0
+321,Deadly Towers,Any%,Deadly Towers - Any%,1647.0,1986,35,6,Nintendo Entertainment System,,,,,489.53,,1157.47,70.277474195507,0,1,0,0,1,0,0,0,0,0,1,0
+322,Spelunky,Any%,Spelunky - Any%,,2013,8,145,PlayStation 3,Platformer,,Derek Yu,"Mossmouth, LLC",114.03,Hourglass,,,0,0,0,1,0,0,0,1,0,0,0,0
+323,Tenchu: Stealth Assassins,Any%,Tenchu: Stealth Assassins - Any%,1476.0,1998,23,5,PlayStation 2,Stealth,,Acquire,Activision,994.17,,481.83,32.6443089430894,0,1,0,0,1,0,0,0,0,0,1,0
+324,Ninja Gaiden Shadow,Any%,Ninja Gaiden Shadow - Any%,765.0,1991,30,29,Game Boy Color,,,,,688.97,,76.02999999999997,9.93856209150326,0,0,0,1,0,0,1,0,0,1,0,0
+325,Star Ocean,Any%,Star Ocean - Any%,8891.0,1996,25,2,Super Nintendo,,,,,6793.43,,2097.57,23.5920593858958,1,0,0,0,1,0,0,0,0,0,0,1
+326,Super Smash T.V.,Any%,Super Smash T.V. - Any%,4125.0,1992,29,1,Sega Genesis,,,,,1728.68,,2396.32,58.0926060606061,1,0,0,0,1,0,0,0,0,0,0,1
+327,Frogger: He's Back!,100%,Frogger: He's Back! - 100%,3582.0,1997,24,1,PlayStation 2,,,,,2875.88,,706.1199999999999,19.713009491904,1,0,0,0,1,0,0,0,0,0,0,1
+328,Mega Man X5,Any%,Mega Man X5 - Any%,1243.0,2000,21,11,GameCube,,,,,998.18,PCSX,244.82000000000005,19.6958970233307,0,0,1,0,1,0,0,0,0,0,1,0
+329,Spyro 2: Ripto's Rage!,Any%,Spyro 2: Ripto's Rage! - Any%,468.0,1999,22,115,PlayStation 2,,,Insomniac Games,Sony Computer Entertainment,452.47,PSXjin,15.529999999999973,3.31837606837606,0,0,0,1,0,0,0,1,1,0,0,0
+330,Metroid II: Return of Samus,Any%,Metroid II: Return of Samus - Any%,3359.0,1991,30,0,Nintendo 3DS Virtual Console,Action-adventure,,Nintendo R&D1,Nintendo,2708.42,,650.5799999999999,19.3682643643942,1,0,0,0,1,0,0,0,0,0,0,1
+331,Metroid II: Return of Samus,100%,Metroid II: Return of Samus - 100%,3370.0,1991,30,4,Nintendo 3DS Virtual Console,Action-adventure,,Nintendo R&D1,Nintendo,2962.82,,407.17999999999984,12.0824925816024,0,1,0,0,1,0,0,0,0,0,0,1
+332,Chrono Trigger,Any%,Chrono Trigger - Any%,8738.0,1995,26,10,Super Nintendo,JRPG,,,Squaresoft,8228.86,,509.1399999999994,5.82673380636301,0,0,1,0,1,0,0,0,0,0,0,1
+333,Widget,Any%,Widget - Any%,553.0,1990,31,18,Nintendo Entertainment System,,,,,335.62,,217.38,39.3092224231465,0,0,1,0,1,0,0,0,1,0,0,0
+334,Spider-Man: Return of the Sinister Six,Any%,Spider-Man: Return of the Sinister Six - Any%,367.0,1992,29,29,Nintendo Entertainment System,,,,,327.41,,39.589999999999975,10.7874659400545,0,0,0,1,0,0,1,0,1,0,0,0
+335,Duke Nukem 64,Any%,Duke Nukem 64 - Any%,1099.0,1997,24,3,Nintendo 64,,,,,718.87,,380.13,34.5887170154686,1,0,0,0,1,0,0,0,0,1,0,0
+336,Wrath of the Black Manta,Any%,Wrath of the Black Manta - Any%,652.0,1990,31,12,Nintendo Entertainment System,,,,,592.51,,59.49000000000001,9.12423312883436,0,0,1,0,1,0,0,0,1,0,0,0
+337,Pocket Bomberman,Any%,Pocket Bomberman - Any%,613.0,1998,23,8,Game Boy Color,,,Hudson Soft,Nintendo,388.0,lsnes,225.0,36.7047308319739,0,0,1,0,1,0,0,0,1,0,0,0
+338,Turok 3: Shadow of Oblivion,Any%,Turok 3: Shadow of Oblivion - Any%,2686.0,2000,21,6,Nintendo 64,,,,,2505.55,,180.44999999999985,6.71816827997021,0,1,0,0,1,0,0,0,0,0,0,1
+339,Operation C,Any%,Operation C - Any%,682.457,1991,30,13,Game Boy Color,Run and Gun,,Konami,Konami,653.35,,29.10699999999997,4.26503061731361,0,0,1,0,1,0,0,0,0,1,0,0
+340,Mega Man 8,Any%,Mega Man 8 - Any%,3027.0,1996,25,30,Sega Saturn,,,,,2826.23,PCSX,200.77,6.63263957713908,0,0,0,1,0,0,1,0,0,0,0,1
+341,Ninja Jajamaru: Ginga Daisakusen,Any%,Ninja Jajamaru: Ginga Daisakusen - Any%,1112.0,1991,30,1,Nintendo Entertainment System,Platformer,,Jaleco,Jaleco,916.06,,195.94000000000003,17.6205035971223,1,0,0,0,1,0,0,0,0,1,0,0
+342,Earthworm Jim: Special Edition,Any%,Earthworm Jim: Special Edition - Any%,2227.0,1995,26,1,PC,Platformer,,Shiny Entertainment,Interplay Productions,1727.4,,499.5999999999999,22.4337674000898,1,0,0,0,1,0,0,0,0,0,1,0
+343,Back to the Future Part III,Any%,Back to the Future Part III - Any%,293.0,1991,30,2,Sega Genesis,,,Probe Software,Image Works Arena Entertainment,229.58,,63.41999999999999,21.6450511945392,1,0,0,0,1,0,0,0,1,0,0,0
+344,SpongeBob SquarePants: Legend of the Lost Spatula,Any%,SpongeBob SquarePants: Legend of the Lost Spatula - Any%,736.0,2001,20,1,GameCube,,,,,357.98,,378.02,51.3614130434783,1,0,0,0,1,0,0,0,0,1,0,0
+345,Kamen no Ninja: Akakage,Any%,Kamen no Ninja: Akakage - Any%,559.0,1988,33,8,Nintendo Entertainment System,,,,,484.77,,74.23000000000002,13.2790697674419,0,0,1,0,1,0,0,0,1,0,0,0
+346,Psycho Waluigi,Any%,Psycho Waluigi - Any%,3233.0,2011,10,4,PC,Platformer,Multimedia Fusion,Thunder Dragon,,2863.0,Hourglass,370.0,11.4444788122487,0,1,0,0,1,0,0,0,0,0,0,1
+347,Ninja Gaiden III: The Ancient Ship of Doom,Any%,Ninja Gaiden III: The Ancient Ship of Doom - Any%,747.667,1991,30,24,Nintendo Entertainment System,Platformer,,Tecmo,Tecmo,668.73,FCEUX,78.93700000000001,10.5577750522626,0,0,0,1,0,1,0,0,0,1,0,0
+348,Cobra Command,Any%,Cobra Command - Any%,945.0,1988,33,1,Nintendo Entertainment System,,,,,609.33,,335.67,35.5206349206349,1,0,0,0,1,0,0,0,0,1,0,0
+349,X-Men: Wolverine's Rage,Any%,X-Men: Wolverine's Rage - Any%,738.0,2002,19,1,Game Boy Color,Action,,"Digital Eclipse Software, Inc.",Activision,691.18,,46.82000000000005,6.34417344173442,1,0,0,0,1,0,0,0,0,1,0,0
+350,The Magical Quest Starring Mickey Mouse,Any%,The Magical Quest Starring Mickey Mouse - Any%,904.0,1992,29,65,Super Nintendo,,,,,897.57,,6.42999999999995,0.711283185840702,0,0,0,1,0,0,0,1,0,1,0,0
+351,Paladin's Quest,Any%,Paladin's Quest - Any%,13328.0,1992,29,3,Super Nintendo,,,,,7504.71,,5823.29,43.6921518607443,1,0,0,0,1,0,0,0,0,0,0,1
+352,Total Recall,Any%,Total Recall - Any%,367.0,1990,31,18,Nintendo Entertainment System,,,,,286.11,,80.88999999999999,22.0408719346049,0,0,1,0,1,0,0,0,1,0,0,0
+353,Jetpack,Any%,Jetpack - Any%,6149.0,1993,28,1,MS-DOS,Platformer,,Adept Software,Software Creations,1942.56,JPC-RR,4206.44,68.4085217108473,1,0,0,0,1,0,0,0,0,0,0,1
+354,Winx Club,Any%,Winx Club - Any%,1960.0,2005,16,12,Game Boy Advance,,,,,1586.99,,373.01,19.0311224489796,0,0,1,0,1,0,0,0,0,0,1,0
+355,Metal Warriors,Any%,Metal Warriors - Any%,1164.0,1995,26,5,Super Nintendo,,,,,887.25,Bizhawk,276.75,23.7757731958763,0,1,0,0,1,0,0,0,0,1,0,0
+356,Toobin',Any%,Toobin' - Any%,477.0,1989,32,6,Nintendo Entertainment System,,,Atari,Tengen,447.58,,29.420000000000016,6.16771488469602,0,1,0,0,1,0,0,0,1,0,0,0
+357,Frogger's Adventures: The Rescue,Any%,Frogger's Adventures: The Rescue - Any%,4596.0,2003,18,3,GameCube,Action,Renderware,Konami Computer Entertainment Hawaii,Konami,4291.48,,304.52000000000044,6.62576153176676,1,0,0,0,1,0,0,0,0,0,0,1
+358,Vampire Killer,Any%,Vampire Killer - Any%,1020.0,1986,35,1,MSX2,Platformer,,Konami,Konami,947.75,,72.25,7.08333333333333,1,0,0,0,1,0,0,0,0,1,0,0
+359,Mega Man 3,Any%,Mega Man 3 - Any%,2019.0,1990,31,130,Nintendo Entertainment System,,,Capcom,Capcom,1821.08,FCEUX,197.92000000000007,9.80287270926202,0,0,0,1,0,0,0,1,0,0,1,0
+360,Tiny Toon Adventures 2: Trouble in Wackyland,Any%,Tiny Toon Adventures 2: Trouble in Wackyland - Any%,809.0,1992,29,5,Nintendo Entertainment System,,,Konami,Konami,793.11,,15.889999999999986,1.96415327564895,0,1,0,0,1,0,0,0,0,1,0,0
+361,Defender of the Crown,Any%,Defender of the Crown - Any%,137.72,1989,32,27,Nintendo Entertainment System,,,,,106.31,,31.41,22.8071449317456,0,0,0,1,0,1,0,0,1,0,0,0
+362,Speedy Gonzales: Los Gatos Bandidos,Any%,Speedy Gonzales: Los Gatos Bandidos - Any%,1385.0,1995,26,3,Super Nintendo,,,,,1362.87,,22.13000000000011,1.59783393501806,1,0,0,0,1,0,0,0,0,0,1,0
+363,Mystery Quest,Any%,Mystery Quest - Any%,1044.0,1987,34,3,Nintendo Entertainment System,Platforming,,Carry Lab,Taxan,866.09,,177.90999999999997,17.0411877394636,1,0,0,0,1,0,0,0,0,1,0,0
+364,Iron Tank: The Invasion of Normandy,Any%,Iron Tank: The Invasion of Normandy - Any%,921.0,1988,33,8,Nintendo Entertainment System,,,,,707.47,,213.53,23.1845819761129,0,0,1,0,1,0,0,0,0,1,0,0
+365,Donkey Kong Land,100%,Donkey Kong Land - 100%,2432.0,1995,26,3,Game Boy Color,,,,,2112.91,,319.09000000000015,13.1204769736842,1,0,0,0,1,0,0,0,0,0,0,1
+366,Moon Crystal,Any%,Moon Crystal - Any%,537.0,1992,29,24,Nintendo Entertainment System,,,Hect,Hect,499.05,FCEUX,37.94999999999999,7.06703910614525,0,0,0,1,0,1,0,0,1,0,0,0
+367,Wario Land II,Any%,Wario Land II - Any%,436.0,1999,22,53,Game Boy Color,,,,,392.68,,43.31999999999999,9.93577981651376,0,0,0,1,0,0,0,1,1,0,0,0
+368,Wario Land II,100%,Wario Land II - 100%,8774.0,1999,22,4,Game Boy Color,,,,,6696.1,,2077.9,23.6824709368589,0,1,0,0,1,0,0,0,0,0,0,1
+369,Finding Nemo,Any%,Finding Nemo - Any%,3585.0,2003,18,5,GameCube,,,,,1067.83,,2517.17,70.2139470013947,0,1,0,0,1,0,0,0,0,0,0,1
+370,Metal Max,Any%,Metal Max - Any%,2674.0,1991,30,2,Nintendo Entertainment System,,,,,1456.57,,1217.43,45.5284218399402,1,0,0,0,1,0,0,0,0,0,0,1
+371,Yoshi's Safari,Any%,Yoshi's Safari - Any%,2219.0,1993,28,11,Super Nintendo,,,,,1902.12,,316.8800000000001,14.2803064443443,0,0,1,0,1,0,0,0,0,0,1,0
+372,Croc 2,Any%,Croc 2 - Any%,1139.0,1999,22,10,Game Boy Color,Platformer,,Argonaut Software,Fox Interactive,1104.0,,2604.0,70.2265372168285,0,0,1,0,1,0,0,0,0,1,0,0
+373,Sweet Home,Any%,Sweet Home - Any%,3656.0,1989,32,3,Nintendo Entertainment System,,,,,2405.09,,1250.91,34.2152625820569,1,0,0,0,1,0,0,0,0,0,0,1
+374,Bomberman 64,100%,Bomberman 64 - 100%,5049.0,1997,24,5,Nintendo 64,,,,,3696.02,Mupen64,1352.98,26.7969895028719,0,1,0,0,1,0,0,0,0,0,0,1
+375,Driar,Any%,Driar - Any%,357.0,2012,9,5,Nintendo Entertainment System,,,,,314.45,,42.55000000000001,11.9187675070028,0,1,0,0,1,0,0,0,1,0,0,0
+376,Goemon's Great Adventure,Any%,Goemon's Great Adventure - Any%,5101.0,1998,23,4,Nintendo 64,Platformer,,Konami Computer Entertainment Osaka,Konami,4541.28,,559.7200000000003,10.97275044109,0,1,0,0,1,0,0,0,0,0,0,1
+377,Mega Man Battle Network 2,Any%,Mega Man Battle Network 2 - Any%,7699.0,2001,20,4,Game Boy Advance,RPG,,Capcom,Capcom,5915.28,,1783.7200000000005,23.1682036628134,0,1,0,0,1,0,0,0,0,0,0,1
+378,Spelunker,Any%,Spelunker - Any%,520.0,1985,36,1,Arcade,,,,,268.57,FCEUX,251.43,48.3519230769231,1,0,0,0,1,0,0,0,1,0,0,0
+379,Futari wa Precure Max Heart: Maji? Maji!? Fight de IN Janai,Any%,Futari wa Precure Max Heart: Maji? Maji!? Fight de IN Janai - Any%,2472.0,2005,16,3,Game Boy Advance,,,,,1909.59,,562.4100000000001,22.751213592233,1,0,0,0,1,0,0,0,0,0,0,1
+380,Congo's Caper,Any%,Congo's Caper - Any%,1254.0,1993,28,6,Super Nintendo,Platform,,Data East,Data East,1177.66,,76.33999999999992,6.08771929824561,0,1,0,0,1,0,0,0,0,0,1,0
+381,Timecop,Any%,Timecop - Any%,1212.0,1995,26,4,Super Nintendo,,,,,1148.46,,63.53999999999997,5.24257425742574,0,1,0,0,1,0,0,0,0,1,0,0
+382,Wardner,Any%,Wardner - Any%,556.0,1990,31,3,Nintendo Entertainment System,Platformer,,Toaplan,Taito,528.82,,27.17999999999995,4.88848920863309,1,0,0,0,1,0,0,0,1,0,0,0
+383,Death Duel,Any%,Death Duel - Any%,870.0,1992,29,1,Sega Genesis,,,,,504.73,,365.27,41.9850574712644,1,0,0,0,1,0,0,0,0,1,0,0
+384,Majou Densetsu II: Daimashikyou Galious,Any%,Majou Densetsu II: Daimashikyou Galious - Any%,3432.0,1987,34,1,Nintendo Entertainment System,,,,,1121.63,,2310.37,67.3184731934732,1,0,0,0,1,0,0,0,0,0,0,1
+385,Heavy Shreddin',Any%,Heavy Shreddin' - Any%,1075.0,1990,31,1,Nintendo Entertainment System,,,,,1054.95,,20.049999999999955,1.86511627906976,1,0,0,0,1,0,0,0,0,1,0,0
+386,Golgo 13: Top Secret Episode,Any%,Golgo 13: Top Secret Episode - Any%,3029.0,1988,33,2,Nintendo Entertainment System,,,,,2680.04,,348.96000000000004,11.5206338725652,1,0,0,0,1,0,0,0,0,0,0,1
+387,Pandemonium!,Any%,Pandemonium! - Any%,2127.0,1996,25,4,Sega Saturn,,,,,2043.33,,83.67000000000007,3.93370944992948,0,1,0,0,1,0,0,0,0,0,1,0
+388,Ninja Crusaders,Any%,Ninja Crusaders - Any%,284.969,1990,31,34,Nintendo Entertainment System,,,,,248.45,,36.519000000000005,12.8150781313055,0,0,0,1,0,0,0,1,1,0,0,0
+389,Uninvited,Any%,Uninvited - Any%,650.68,1989,32,21,Nintendo Entertainment System,,,,,489.78,,160.89999999999998,24.7279768857196,0,0,0,1,1,0,0,0,1,0,0,0
+390,Lethal Weapon,Any%,Lethal Weapon - Any%,1672.0,1993,28,3,Nintendo Entertainment System,Action,,Eurocom,Ocean Software,1158.27,snes9x,513.73,30.7254784688995,1,0,0,0,1,0,0,0,0,0,1,0
+391,Astyanax,Any%,Astyanax - Any%,950.0,1989,32,19,Nintendo Entertainment System,,,,,909.04,,40.96000000000004,4.31157894736842,0,0,1,0,1,0,0,0,0,1,0,0
+392,Super Mario Land,Any%,Super Mario Land - Any%,744.467,1989,32,135,Nintendo 3DS Virtual Console,,,,,728.75,,15.716999999999985,2.11117484052349,0,0,0,1,0,0,0,1,0,1,0,0
+393,Clash at Demonhead,Any%,Clash at Demonhead - Any%,1208.0,1989,32,3,Nintendo Entertainment System,Action,,Vic Tokai,Vic Tokai,1089.22,FCEUX,118.77999999999996,9.83278145695364,1,0,0,0,1,0,0,0,0,1,0,0
+394,Batman Forever,Any%,Batman Forever - Any%,1522.0,1995,26,6,Super Nintendo,Beat 'em up,,Probe Entertainment,Acclaim,927.02,,594.98,39.0919842312746,0,1,0,0,1,0,0,0,0,0,1,0
+395,Gradius,Any%,Gradius - Any%,664.833,1986,35,14,Nintendo Entertainment System,,,,,652.35,FCEU,12.482999999999947,1.87761437834764,0,0,1,0,1,0,0,0,1,0,0,0
+396,Croc: Legend of the Gobbos,100%,Croc: Legend of the Gobbos - 100%,4805.0,1997,24,11,Sega Saturn,,,,,4715.43,PCSX,89.56999999999971,1.86409989594172,0,0,1,0,1,0,0,0,0,0,0,1
+397,Einhänder,Any%,Einhänder - Any%,1979.0,1997,24,2,PlayStation 2,Shoot 'em up,,Squaresoft,Square,1889.93,,89.06999999999994,4.50075795856493,1,0,0,0,1,0,0,0,0,0,1,0
+398,Sonic Colors,Any%,Sonic Colors - Any%,1795.0,2010,11,7,Wii,Action,PhysX,Sonic Team,SEGA,1597.8,DeSmuME,1758.2,52.3897497020262,0,1,0,0,1,0,0,0,0,0,1,0
+399,Alex Kidd in the Enchanted Castle,Any%,Alex Kidd in the Enchanted Castle - Any%,375.0,1989,32,8,Wii Virtual Console,Platformer,,SEGA,SEGA,327.8,,47.19999999999999,12.5866666666667,0,0,1,0,1,0,0,0,1,0,0,0
+400,Crystalis,Any%,Crystalis - Any%,2983.0,1990,31,1,Nintendo Entertainment System,,,,,2440.43,FCEUX,542.5700000000002,18.1887361716393,1,0,0,0,1,0,0,0,0,0,0,1
+401,Zanac,Any%,Zanac - Any%,2290.0,1986,35,3,Nintendo Entertainment System,Shoot 'em up,,Compile,FCI,196.11,,2093.89,91.4362445414847,1,0,0,0,1,0,0,0,0,0,1,0
+402,Chameleon Twist 2,Any%,Chameleon Twist 2 - Any%,1497.0,1998,23,13,Nintendo 64,3D Platformer,,Japan System Supply,Sunsoft,1317.27,Mupen64,179.73000000000002,12.0060120240481,0,0,1,0,1,0,0,0,0,0,1,0
+403,Amagon,Any%,Amagon - Any%,1129.0,1988,33,5,Nintendo Entertainment System,,,,,1081.79,,47.21000000000004,4.18157661647476,0,1,0,0,1,0,0,0,0,1,0,0
+404,Skyblazer,Any%,Skyblazer - Any%,1508.0,1994,27,28,Super Nintendo,,,,,1467.02,snes9x,40.98000000000002,2.71750663129974,0,0,0,1,0,1,0,0,0,0,1,0
+405,Yoshi's Story,Any%,Yoshi's Story - Any%,659.3,1997,24,72,Nintendo 64,Platformer,,Nintendo,Nintendo,639.67,Mupen64,19.629999999999995,2.97740027301684,0,0,0,1,0,0,0,1,1,0,0,0
+406,Snake's Revenge,Any%,Snake's Revenge - Any%,2538.0,1990,31,6,Nintendo Entertainment System,,,,,1899.92,,638.08,25.1410559495666,0,1,0,0,1,0,0,0,0,0,0,1
+407,The SpongeBob SquarePants Movie,Any%,The SpongeBob SquarePants Movie - Any%,2080.0,2004,17,5,GameCube,Platformer,Renderware,Heavy Iron Studios,THQ,1698.78,VBA,381.22,18.3278846153846,0,1,0,0,1,0,0,0,0,0,1,0
+408,Bloody Wolf,Any%,Bloody Wolf - Any%,989.0,1988,33,4,Wii Virtual Console,,,,,859.74,,129.26,13.0697674418605,0,1,0,0,1,0,0,0,0,1,0,0
+409,Rod Land,Any%,Rod Land - Any%,777.0,1990,31,2,Arcade,,,,,469.39,,307.61,39.5894465894466,1,0,0,0,1,0,0,0,0,1,0,0
+410,The Rocketeer,Any%,The Rocketeer - Any%,1075.0,1991,30,2,Nintendo Entertainment System,,,,,835.66,,239.34000000000003,22.2641860465116,1,0,0,0,1,0,0,0,0,1,0,0
+411,Super Adventure Island,Any%,Super Adventure Island - Any%,1017.0,1992,29,9,Super Nintendo,2D Platformer,,Hudson Soft,Hudson Soft,1004.22,,12.779999999999973,1.25663716814159,0,0,1,0,1,0,0,0,0,1,0,0
+412,Super Bomberman 2,Any%,Super Bomberman 2 - Any%,1300.0,1994,27,11,Super Nintendo,,,,,1080.23,snes9x,219.77,16.9053846153846,0,0,1,0,1,0,0,0,0,0,1,0
+413,ActRaiser,Any%,ActRaiser - Any%,3491.0,1990,31,20,Super Nintendo,Platform,Snes,Quintet,Enix,3235.57,snes9x,255.42999999999984,7.31681466628473,0,0,0,1,1,0,0,0,0,0,0,1
+414,Time Lord,Any%,Time Lord - Any%,656.53,1990,31,6,Nintendo Entertainment System,,,,,624.25,,32.27999999999997,4.91675932554491,0,1,0,0,1,0,0,0,1,0,0,0
+415,Space Quest IV: Roger Wilco and the Time Rippers,Any%,Space Quest IV: Roger Wilco and the Time Rippers - Any%,509.0,1991,30,3,PC,,,,,456.51,,52.49000000000001,10.3123772102161,1,0,0,0,1,0,0,0,1,0,0,0
+416,Aero the Acro-Bat,Any%,Aero the Acro-Bat - Any%,2195.0,1993,28,1,Super Nintendo,Platform,,Iguana,Sunsoft,1779.23,,415.77,18.9416856492027,1,0,0,0,1,0,0,0,0,0,1,0
+417,Knight Quest,Any%,Knight Quest - Any%,9621.0,1992,29,2,Game Boy Color,RPG,,,,1402.73,,8218.27,85.4201226483734,1,0,0,0,1,0,0,0,0,0,0,1
+418,Star Wars: The Empire Strikes Back,Any%,Star Wars: The Empire Strikes Back - Any%,1014.0,1992,29,2,Nintendo Entertainment System,,,,,734.22,,279.78,27.5917159763314,1,0,0,0,1,0,0,0,0,1,0,0
+419,Puggsy,Any%,Puggsy - Any%,1462.966,1993,28,8,Sega Genesis,Platformer,,Traveller's Tales,Psygnosis,1080.73,,382.236,26.1274698113285,0,0,1,0,1,0,0,0,0,0,1,0
+420,Inspector Gadget,Any%,Inspector Gadget - Any%,925.0,1993,28,1,Super Nintendo,,,,,823.65,,101.35000000000002,10.9567567567568,1,0,0,0,1,0,0,0,0,1,0,0
+421,Ultraman Ball,Any%,Ultraman Ball - Any%,412.0,1994,27,11,Game Boy Color,,,,,364.45,,47.55000000000001,11.5412621359223,0,0,1,0,1,0,0,0,1,0,0,0
+422,Tiny Toon Adventures: Babs' Big Break,Any%,Tiny Toon Adventures: Babs' Big Break - Any%,955.0,1992,29,12,Game Boy Color,,,,,923.2,,31.799999999999955,3.32984293193717,0,0,1,0,1,0,0,0,0,1,0,0
+423,Yume Penguin Monogatari,Any%,Yume Penguin Monogatari - Any%,594.8,1991,30,46,Nintendo Entertainment System,2D Platformer,,Konami,,589.0,,5.7999999999999545,0.975117686617343,0,0,0,1,0,0,0,1,1,0,0,0
+424,The Amazing Spider-Man,Any%,The Amazing Spider-Man - Any%,7432.0,2012,9,3,Nintendo 3DS,,,,,18.62,,7413.38,99.7494617868676,1,0,0,0,1,0,0,0,0,0,0,1
+425,Top Hunter: Roddy & Cathy,Any%,Top Hunter: Roddy & Cathy - Any%,1105.0,1994,27,5,Arcade,Beat 'em up,,snk,SNK,769.1,,335.9,30.3981900452489,0,1,0,0,1,0,0,0,0,1,0,0
+426,Lagoon,Any%,Lagoon - Any%,4931.0,1991,30,6,Super Nintendo,,,,,4112.68,,818.3199999999997,16.5954167511661,0,1,0,0,1,0,0,0,0,0,0,1
+427,X-Men: Mutant Apocalypse,Any%,X-Men: Mutant Apocalypse - Any%,1028.0,1994,27,20,Super Nintendo,,,,,895.02,,132.98000000000002,12.9357976653697,0,0,0,1,1,0,0,0,0,1,0,0
+428,Super Bomberman,Any%,Super Bomberman - Any%,832.0,1993,28,42,Super Nintendo,Puzzle,,,,756.93,snes9x,75.07000000000005,9.02283653846155,0,0,0,1,0,0,0,1,0,1,0,0
+429,Monster Party,Any%,Monster Party - Any%,923.0,1989,32,24,Nintendo Entertainment System,,,Human Entertainment,Bandai,898.07,,24.92999999999995,2.70097508125677,0,0,0,1,0,1,0,0,0,1,0,0
+430,Ganryu,Any%,Ganryu - Any%,479.0,1999,22,2,Dreamcast,,,,,470.2,,8.800000000000011,1.83716075156576,1,0,0,0,1,0,0,0,1,0,0,0
+431,Kishin Douji Zenki: Batoru Raiden,Any%,Kishin Douji Zenki: Batoru Raiden - Any%,1125.92,1995,26,3,Super Nintendo,Platformer,,CAProduction,Hudson Soft,786.45,,339.47,30.1504547392355,1,0,0,0,1,0,0,0,0,1,0,0
+432,Turbo Turtle Adventure,Any%,Turbo Turtle Adventure - Any%,1673.0,2002,19,3,Game Boy Advance,,,,,1116.07,,556.93,33.2893006575015,1,0,0,0,1,0,0,0,0,0,1,0
+433,Mendel Palace,Any%,Mendel Palace - Any%,1292.0,1989,32,4,Nintendo Entertainment System,Action,,Game Freak,Hudson Soft,1142.97,,149.02999999999997,11.5348297213622,0,1,0,0,1,0,0,0,0,0,1,0
+434,Dungeon Explorer,Any%,Dungeon Explorer - Any%,1405.0,1989,32,5,Wii Virtual Console,,,,,1219.3,,185.70000000000005,13.2170818505338,0,1,0,0,1,0,0,0,0,0,1,0
+435,Operation Logic Bomb,Any%,Operation Logic Bomb - Any%,1246.32,1993,28,7,Super Nintendo,,,,,1088.13,,158.18999999999983,12.6925669170036,0,1,0,0,1,0,0,0,0,0,1,0
+436,Kick Master,Any%,Kick Master - Any%,673.0,1992,29,17,Nintendo Entertainment System,,,,,512.38,,160.62,23.8662704309064,0,0,1,0,1,0,0,0,0,1,0,0
+437,Ghoul School,Any%,Ghoul School - Any%,256.0,1992,29,36,Nintendo Entertainment System,,,,,242.73,,13.27000000000001,5.18359375,0,0,0,1,0,0,0,1,1,0,0,0
+438,The Amazing Spider-Man: Lethal Foes,Any%,The Amazing Spider-Man: Lethal Foes - Any%,758.0,1995,26,3,Super Nintendo,Action,,Agenda & Epoch Co.,Epoch Co.,577.12,,180.88,23.8627968337731,1,0,0,0,1,0,0,0,0,1,0,0
+439,Mega Man Battle Network,Any%,Mega Man Battle Network - Any%,4482.0,2001,20,13,Game Boy Advance,RPG,,Capcom,Capcom,3340.65,,1141.35,25.4651941097724,0,0,1,0,1,0,0,0,0,0,0,1
+440,Kid Chameleon,Maximum Levels,Kid Chameleon - Maximum Levels,2315.0,1992,29,6,Wii Virtual Console,Platformer,,SEGA,SEGA,1797.7,,517.3,22.3455723542117,0,1,0,0,1,0,0,0,0,0,1,0
+441,Magician,Any%,Magician - Any%,821.0,1991,30,2,Nintendo Entertainment System,,,,,732.18,,88.82000000000005,10.8185140073082,1,0,0,0,1,0,0,0,0,1,0,0
+442,Super Gussun Oyoyo,Any%,Super Gussun Oyoyo - Any%,523.0,1995,26,3,Super Nintendo,,,,,446.33,,76.67000000000002,14.65965583174,1,0,0,0,1,0,0,0,1,0,0,0
+443,Smart Ball,Any%,Smart Ball - Any%,985.0,1991,30,7,Super Nintendo,,,,,867.37,,117.63,11.9421319796954,0,1,0,0,1,0,0,0,0,1,0,0
+444,Ardy Lightfoot,Any%,Ardy Lightfoot - Any%,1347.0,1993,28,6,Super Nintendo,,,ASCII Entertainment,ASCII Entertainment,1196.93,,150.06999999999994,11.1410541945063,0,1,0,0,1,0,0,0,0,0,1,0
+445,Yo! Noid,Any%,Yo! Noid - Any%,1198.0,1990,31,8,Nintendo Entertainment System,Action Platformer,,Now Production,Capcom,1169.27,,28.730000000000015,2.39816360601002,0,0,1,0,1,0,0,0,0,1,0,0
+446,Keith Courage in Alpha Zones,Any%,Keith Courage in Alpha Zones - Any%,1131.0,1988,33,7,TurboGrafx-16/PC Engine,Platform Game,,Advance Communication Company,Hudson Soft,977.3,,153.70000000000005,13.5897435897436,0,1,0,0,1,0,0,0,0,1,0,0
+447,Werewolf: The Last Warrior,Any%,Werewolf: The Last Warrior - Any%,597.0,1990,31,6,Nintendo Entertainment System,,,,,539.58,FCEUX,57.41999999999996,9.6180904522613,0,1,0,0,1,0,0,0,1,0,0,0
+448,Monster in My Pocket,Any%,Monster in My Pocket - Any%,981.0,1992,29,32,Nintendo Entertainment System,,,,,854.97,,126.02999999999996,12.8470948012232,0,0,0,1,0,0,0,1,0,1,0,0
+449,8 Eyes,Any%,8 Eyes - Any%,1096.0,1988,33,4,Nintendo Entertainment System,,,,,1000.28,,95.72000000000004,8.73357664233577,0,1,0,0,1,0,0,0,0,1,0,0
+450,Kaizou Choujin Shubibinman Zero,Any%,Kaizou Choujin Shubibinman Zero - Any%,962.2,1997,24,9,Super Nintendo,Action: Side-Scrolling,,Masaya,NCS,768.17,,194.0300000000001,20.1652463105384,0,0,1,0,1,0,0,0,0,1,0,0
+451,Sub-Terrania,Any%,Sub-Terrania - Any%,558.0,1994,27,3,Sega Genesis,Shooter,,Zyrinx,Scavenger,400.62,,157.38,28.2043010752688,1,0,0,0,1,0,0,0,1,0,0,0
+452,Blaster Master 2,Any%,Blaster Master 2 - Any%,2258.0,1993,28,3,Sega Genesis,,,,,1529.22,,728.78,32.2754650132861,1,0,0,0,1,0,0,0,0,0,1,0
+453,Legacy of the Wizard,Any%,Legacy of the Wizard - Any%,1399.0,1987,34,17,Nintendo Entertainment System,,,,,824.23,FCEU,574.77,41.084345961401,0,0,1,0,1,0,0,0,0,0,1,0
+454,Wizards & Warriors,Any%,Wizards & Warriors - Any%,657.0,1987,34,33,Nintendo Entertainment System,,,,,575.42,,81.58000000000004,12.4170471841705,0,0,0,1,0,0,0,1,1,0,0,0
+455,Totally Rad,Any%,Totally Rad - Any%,848.0,1991,30,4,Nintendo Entertainment System,,,,,727.57,,120.42999999999996,14.2016509433962,0,1,0,0,1,0,0,0,0,1,0,0
+456,Dragon Fighter,Any%,Dragon Fighter - Any%,808.0,1990,31,9,Nintendo Entertainment System,,,,,735.28,,72.72000000000003,9.0,0,0,1,0,1,0,0,0,0,1,0,0
+457,Kendo Rage,Any%,Kendo Rage - Any%,693.0,1993,28,1,Super Nintendo,Action-game,,Affect,Seta U.S.A.,619.8,,73.20000000000005,10.5627705627706,1,0,0,0,1,0,0,0,0,1,0,0
