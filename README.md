@@ -9,9 +9,10 @@ An app allowing you to predict the best possible time for a game speedrun.
 * Built a web app using Streamlit.
 
 # Run it locally
+ * Download the source code
  * Run Python 3.9 on a terminal 
- * Install requirements : `pip install -r https://raw.githubusercontent.com/cmmm976/OWREstimator/main/requirements.txt`
- * Then : `streamlit run https://raw.githubusercontent.com/cmmm976/OWREstimator/main/src/app/main.py`
+ * Install requirements : `pip install -r requirements.txt`
+ * Then : `streamlit run main.py`
 
 # Code and ressources used
 **Python version 3.9**
