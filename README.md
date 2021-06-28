@@ -13,7 +13,7 @@ An app allowing you to predict the best possible time for a game speedrun.
  * Run Python 3.9 on a terminal
  * Navigate into the folder you extracted
  * Install the requirements : `pip install -r requirements.txt`
- * Then : `streamlit run app/main.py`
+ * Then : `streamlit run src/app/main.py`
 
 # Code and ressources used
 **Python version 3.9**
