@@ -9,9 +9,9 @@ An app allowing you to predict the best possible time possible for a game speedr
 * Built a web app using Streamlit.
 
 # Run it locally
-Install requirements : `pip install -r requirements.txt`
- 
-Then : `streamlit app.py`
+ * Run Python 3.9 on a terminal 
+ * Install requirements : `pip install -r requirements.txt`
+ * Then : `streamlit app.py`
 
 # Code and ressources used
 **Python version 3.9**
