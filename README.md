@@ -11,7 +11,7 @@ An app allowing you to predict the best possible time for a game speedrun.
 # Run it locally
  * Run Python 3.9 on a terminal 
  * Install requirements : `pip install -r https://raw.githubusercontent.com/cmmm976/OWREstimator/main/requirements.txt`
- * Then : `streamlit https://raw.githubusercontent.com/cmmm976/OWREstimator/main/src/app/main.py`
+ * Then : `streamlit run https://raw.githubusercontent.com/cmmm976/OWREstimator/main/src/app/main.py`
 
 # Code and ressources used
 **Python version 3.9**
