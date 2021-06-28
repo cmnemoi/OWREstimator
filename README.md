@@ -15,10 +15,15 @@ Then : `streamlit app.py`
 
 # Code and ressources used
 **Python version 3.9**
+ 
 **Packages:** pandas, numpy, sklearn, matplotlib, seaborn, beautiful soup, flask, streamlit, joblib
+ 
 **Libraries** : [Python library for speedrun.com API](https://github.com/blha303/srcomapi)
+ 
 **Scraper Repository:** https://github.com/kaparker/tutorials/blob/master/pythonscraper/websitescrapefasttrack.py
+ 
 **Scraper Article:** https://blog.lesjeudis.com/web-scraping-avec-python (french)
+ 
 **Flask Productionization:** https://www.analyticsvidhya.com/blog/2020/04/how-to-deploy-machine-learning-model-flask/
 
 # Data collection
