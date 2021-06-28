@@ -45,10 +45,12 @@ class CustomEncoder(BaseEstimator):
         x_dataset['Somehow_Long'] = x_dataset['time'].apply(lambda x: 1 if x>664.833 and x<=1226 else 0)
         x_dataset['Long'] = x_dataset['time'].apply(lambda x: 1 if x>1226 and x<=2315 else 0)
         x_dataset['Very_Long'] = x_dataset['time'].apply(lambda x: 1 if x>2315 else 0)
+
+        x_dataset = pd.get_dummies(x_dataset)
             
         return x_dataset
 
-pre_process = ColumnTransformer(remainder='passthrough',transformers=[('drop_columns', 'drop', ['age','nb_of_runs'])])
+pre_process = ColumnTransformer(remainder='passthrough',transformers=[('drop_columns', 'drop', ['age','nb_of_runs','main_platform'])])
                                                                        
 
 data = pd.read_csv('data/f_dataset.csv')
@@ -57,7 +59,7 @@ try:
 except:
     pass
 
-features = ['time','age','nb_of_runs']
+features = ['time','age','nb_of_runs','main_platform']
 label = 'TAS_time'
 
 X = data[features]
