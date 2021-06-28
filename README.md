@@ -1,5 +1,5 @@
 # TAS Predictor : Project Overview
-An app allowing you to predict the best possible time possible for a game speedrun. 
+An app allowing you to predict the best possible time for a game speedrun. 
 
 * Created a web app that estimates the best possible time of a speedrun (MAE ~ 388 seconds while dataset's standard deviation is 2000+ seconds).
 * Extracted 3800+ game runs from [Speedrun.com](speedrun.com) using its [API](https://github.com/speedruncomorg/api) and Python.
