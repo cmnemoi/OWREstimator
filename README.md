@@ -67,7 +67,7 @@ I tried different models :
  * Gradient Boost Regressor
 
 # Model performance
-The best model was the Gradient Boost Regressor with a MAE of ~388 seconds.
+The best model was the Gradient Boost Regressor with a MAE of ~388 seconds on test set (~160 seonds on training set).
 
 # Productionization
 In this step, I built a flask API web app prototype using the relevant link in reference on a local webserver. The prototype allows the user to type the name of the game, choose the category and returns the link of the world record, its time and the estimated best time.
