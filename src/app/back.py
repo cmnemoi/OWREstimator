@@ -3,6 +3,7 @@ import pandas as pd
 import datetime
 from sklearn.base import BaseEstimator
 from joblib import load
+import requests
 
 class CustomEncoder(BaseEstimator):
 
@@ -35,7 +36,6 @@ class CustomEncoder(BaseEstimator):
 
 def request_categories(name):
     src_game = api.search(srcomapi.datatypes.Game, {"name": name})[0]
-
     leaderboards = {}
     for category in src_game.categories:
         if category.type == 'per-level':
@@ -67,6 +67,7 @@ def request_data(game,user_category):
     nb_of_runs = len(leaderboards[user_category].runs)
     age = datetime.datetime.now().year - src_game.released
     WR_time = leaderboards[user_category].runs[0]["run"].times['primary_t']
+
     df = pd.DataFrame({'time':WR_time,'age':age,'nb_of_runs':nb_of_runs,}, index=[0])
 
     predicted_time = str(datetime.timedelta(seconds=pipeline.predict(df)[0]))
