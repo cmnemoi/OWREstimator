@@ -5,7 +5,7 @@ An app allowing you to predict the best possible time for a game speedrun.
 * Extracted 3800+ game runs from [Speedrun.com](speedrun.com) using its [API](https://github.com/speedruncomorg/api) and Python.
 * Scrapped 2000+ game runs from [TASvideos](tasvideos.org) using Beautiful Soup and Python.
 * Engineering features from the time of the world records, number of runners and released year for each game put on Python, Libre Office Calc/Excel and Streamlit.
-* Optimized linear, lasso, ridge, random forest, XGBoost regressor using GridSearchCV to find the best model.
+* Optimized linear, lasso, ridge, random forest, gradient boost regressor using GridSearchCV to find the best model.
 * Built a web app using Streamlit.
 
 # Run it locally
