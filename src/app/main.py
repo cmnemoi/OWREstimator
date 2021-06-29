@@ -16,6 +16,7 @@ if game_submitted:
     try:
         categories = request_categories(game)
     except IndexError:
+        st.error("Your game has not been found. Try to look for typos.")
         sys.exit("Your game has not been found. Try to look for typos.")
     for category in categories:
         try:
