@@ -8,7 +8,9 @@ An app allowing you to predict the best possible time for a game speedrun.
 * Optimized linear, lasso, ridge, random forest, gradient boost regressor using GridSearchCV to find the best model.
 * Built a web app using Streamlit.
 
-# Run it locally
+# Run it
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](bit.ly/TASPredictor)
+## Locally
  * Download the project and extract it
  * Run Python 3.9 on a terminal
  * Navigate into the folder you extracted
