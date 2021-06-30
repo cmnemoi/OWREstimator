@@ -57,6 +57,7 @@ After scraping the data, I needed to clean it up so that it was usable for our m
 
 # EDA
 It revealed that number of runners were a key feature to predict the best possible time.
+![graph](https://cdn.discordapp.com/attachments/398531071966445579/859544053326807070/time_vs_tas_-_popularity.png)
 
 # Model building
 First, I transformed the categorical variables into dummy variables. I also split the data into train and tests sets with a test size of 30% (studies shows the best repartition is somewhere near that).
