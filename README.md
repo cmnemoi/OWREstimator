@@ -9,7 +9,7 @@ An app allowing you to predict the best possible time for a game speedrun.
 * Built a web app using Streamlit.
 
 # Run it
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://bit.ly/TASPredictor)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://owrestimator.streamlit.app/)
 ## Locally
  * `git clone https://github.com/cmnemoi/OWREstimator.git && cd OWREstimator`
  * `python3 -m venv .venv && source .venv/bin/activate && pip install -r requirements.txt`
