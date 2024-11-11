@@ -5,14 +5,6 @@ import pandas as pd
 import numpy as np
 import time
 
-# def formatting_game_list(game_list):
-#   game_list.rename(columns={'NES Mega Man 2':'game'},inplace=True)
-#   game_list.loc[len(game_list)-1] = 'NES Mega Man 2'
-#   game_list.drop_duplicates()
-#   # removing the platform from the gane name
-#   for i in range(len(game_list)):
-#     game_list.loc[i] = game_list.loc[i].values[0].split(' ', 1)[1]
-
 
 def getting_SRC_games(game_list, nb_games):
     for i in range(nb_games):

@@ -64,14 +64,3 @@ def get_game_list(soup):
 game_list = pd.DataFrame()
 game_list = game_list.append(get_game_list(getting_page()))
 game_list.to_csv("data/gamelist.csv")
-
-# s = 'GBC Pokémon: Gold Version by CasualPokePlayer in 03:14.16'
-# print(s.split(' ')[len(s.split(' '))-1])
-
-# df = pd.DataFrame()
-
-# l = []
-# l.append({'game':'x','category':'p'})
-# l.append({'game':'y','category':'z'})
-# print(l)
-# print(df.append(l))

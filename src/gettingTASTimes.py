@@ -49,9 +49,3 @@ formating_df()
 game_list.to_csv("tas_dataset.csv")
 
 print(game_list)
-
-# d = {'game':'NES Mega Man 2'}
-# e= {'category':'any%'}
-# game_list = game_list.append(d,ignore_index=True)
-# game_list = game_list.append({**d,**e},ignore_index=True)
-# print(game_list)
