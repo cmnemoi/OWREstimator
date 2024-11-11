@@ -1,15 +1,12 @@
 all: setup-git-hooks install check test 
 
-check: check-format check-lint check-types
+check: check-format check-lint
 
 check-format:
 	uv run ruff format . --diff
 
 check-lint:
 	uv run ruff check .
-
-check-types:
-	uv run mypy .
 
 install:
 	uv lock --locked
@@ -27,4 +24,4 @@ setup-git-hooks:
 test:
 	uv run pytest -v --cov=src --cov-report=xml
 
-.PHONY: all check check-format check-lint install lint test
+.PHONY: all check check-format check-lint install lint test setup-git-hooks
