@@ -1,4 +1,7 @@
 # TAS Predictor : Project Overview
+
+[![Continous Integration](https://github.com/cmnemoi/OWREstimator/actions/workflows/ci.yaml/badge.svg)](https://github.com/cmnemoi/OWREstimator/actions/workflows/ci.yaml)
+
 An app allowing you to predict the best possible time for a game speedrun. 
 
 * Created a web app that estimates the best possible time of a speedrun (MAE ~ 388 seconds).
@@ -75,8 +78,12 @@ The best model was the Gradient Boost Regressor with a MAE of ~388 seconds on te
 # Productionization
 In this step, I built a flask API web app prototype using the relevant link in reference on a local webserver. The prototype allows the user to type the name of the game, choose the category and returns the link of the world record, its time and the estimated best time.
  
-I decided to do the actual app using Streamlit.
-![app prototype](https://cdn.discordapp.com/attachments/386686003148226561/859109203310018560/Screenshot_2021-06-28_at_18-32-54_main_Streamlit.png "App prototype")
- 
-The online version is coming soon.
+A Streamlit app is also available.
 
+![Imgur](https://imgur.com/Fw1WrHB.png)
+ 
+# Code quality
+- The code is formatted with [Ruff](https://github.com/charliermarsh/ruff).
+- The code is linted with [Ruff](https://github.com/charliermarsh/ruff).
+- The code is tested with [pytest](https://docs.pytest.org/en/7.2.x/).
+- Quality is checked by git hooks and GitHub Actions workflows.
