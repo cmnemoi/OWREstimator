@@ -71,7 +71,7 @@ y_test.reset_index(inplace=True,drop=True)
 
 
 model_pipeline = Pipeline(steps=[('coding_known_variables', CustomEncoder()), ('pre_processing',pre_process),
-                                 ('XGBoost_regressor', GradientBoostingRegressor(random_state=0,learning_rate=0.051,max_depth=4,criterion='friedman_mse',loss='lad'))
+                                 ('XGBoost_regressor', GradientBoostingRegressor(random_state=0,learning_rate=0.051,max_depth=4,criterion='friedman_mse',loss='absolute_error',n_estimators=100)),
                                  ])
 
 print('Fitting the pipeline with the training data')
