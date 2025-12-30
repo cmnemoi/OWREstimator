@@ -1,6 +1,7 @@
 # TAS Predictor : Project Overview
 
 [![Continous Integration](https://github.com/cmnemoi/OWREstimator/actions/workflows/ci.yaml/badge.svg)](https://github.com/cmnemoi/OWREstimator/actions/workflows/ci.yaml)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://taspredictor.streamlit.app/)
 
 An app allowing you to predict the best possible time for a game speedrun. 
 
@@ -12,7 +13,7 @@ An app allowing you to predict the best possible time for a game speedrun.
 * Built a web app using Streamlit.
 
 # Run it
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://owrestimator.streamlit.app/)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://taspredictor.streamlit.app/)
 ## Locally
  * `git clone https://github.com/cmnemoi/OWREstimator.git && cd OWREstimator`
  * `python3 -m venv .venv && source .venv/bin/activate && pip install -r requirements.txt`
@@ -87,3 +88,4 @@ A Streamlit app is also available.
 - The code is linted with [Ruff](https://github.com/charliermarsh/ruff).
 - The code is tested with [pytest](https://docs.pytest.org/en/7.2.x/).
 - Quality is checked by git hooks and GitHub Actions workflows.
+
