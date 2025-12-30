@@ -2,7 +2,13 @@ import os
 import sys
 
 import streamlit as st
-from back import predict_world_record, request_categories
+from back import predict_tas_time
+
+from owrestimator.app.ml import predict_tas_time_from_wr
+from owrestimator.app.speedrun_com_gateway import (
+    get_game_categories,
+    get_game_category_world_record,
+)
 
 st.title("TAS Predictor")
 st.header("Predict the best possible times of your favorite speedgame.")
@@ -15,27 +21,26 @@ game = game_form.text_input("Type a game :")
 game_submitted = game_form.form_submit_button("Get best possible times !")
 if game_submitted:
     try:
-        categories = request_categories(game)
+        categories = get_game_categories(game)
     except IndexError:
         st.error("Your game has not been found. Try to look for typos.")
         sys.exit("Your game has not been found. Try to look for typos.")
     for category in categories:
         try:
-            results = predict_world_record(game, category)
-            WR_link = results["WR_link"]
-            WR_time = results["WR_time"]
-            predicted_time = results["predicted_time"]
+            world_record_predicton = predict_tas_time(
+                game, category, get_game_category_world_record, predict_tas_time_from_wr
+            )
             st.subheader(category + ":")
             (
                 """
             [Link to world record]("""
-                + WR_link
+                + world_record_predicton.WR_link
                 + """) (time : """
-                + WR_time
+                + world_record_predicton.WR_time
                 + """)
          
             **The best possible time is :** """
-                + predicted_time
+                + world_record_predicton.predicted_time
             )
         except IndexError:
             st.error(

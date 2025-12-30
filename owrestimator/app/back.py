@@ -1,79 +1,32 @@
 import datetime
-from pathlib import Path
+from dataclasses import dataclass
 
-import pandas as pd
-import srcomapi
-import srcomapi.datatypes as dt
-from joblib import load
-
-api = srcomapi.SpeedrunCom()
-
-
-def request_categories(name):
-    src_game = api.search(srcomapi.datatypes.Game, {"name": name})[0]
-    leaderboards = {}
-    for category in src_game.categories:
-        if category.type == "per-level":
-            pass
-        else:
-            leaderboards[category.name] = dt.Leaderboard(
-                api,
-                data=api.get(
-                    "leaderboards/{}/category/{}?embed=variables".format(
-                        src_game.id, category.id
-                    )
-                ),
-            )
-
-    categories_names = []
-    for lb in leaderboards:
-        categories_names.append(lb)
-
-    return categories_names
+from owrestimator.app.ml import PredictFunction, predict_tas_time_from_wr
+from owrestimator.app.speedrun_com_gateway import (
+    GetGameCategoryWorldRecord,
+    get_game_category_world_record,
+)
 
 
-def predict_world_record(game, user_category):
-    result = {}
-    src_game = api.search(srcomapi.datatypes.Game, {"name": game})[0]
+@dataclass(frozen=True)
+class TASPrediction:
+    predicted_time: str
+    WR_link: str
+    WR_time: str
 
-    leaderboards = {}
-    for category in src_game.categories:
-        if category.type == "per-level":
-            pass
-        else:
-            leaderboards[category.name] = dt.Leaderboard(
-                api,
-                data=api.get(
-                    "leaderboards/{}/category/{}?embed=variables".format(
-                        src_game.id, category.id
-                    )
-                ),
-            )
 
-    pipeline = load(Path("bin/time_prediction.joblib"))
-    nb_of_runs = len(leaderboards[user_category].runs)
-    age = datetime.datetime.now().year - src_game.released
-    WR_time = leaderboards[user_category].runs[0]["run"].times["primary_t"]
+def predict_tas_time(
+    game: str,
+    user_category: str,
+    get_game_category_world_record: GetGameCategoryWorldRecord = get_game_category_world_record,
+    predict_tas_time_from_wr: PredictFunction = predict_tas_time_from_wr,
+) -> TASPrediction:
+    category_world_record = get_game_category_world_record(game, user_category)
 
-    df = pd.DataFrame(
-        {
-            "time": WR_time,
-            "age": age,
-            "nb_of_runs": nb_of_runs,
-        },
-        index=[0],
+    return TASPrediction(
+        str(
+            datetime.timedelta(seconds=predict_tas_time_from_wr(category_world_record))
+        ),
+        category_world_record.weblink,
+        str(datetime.timedelta(seconds=category_world_record.time)),
     )
-
-    predicted_time = str(datetime.timedelta(seconds=pipeline.predict(df)[0]))
-    WR_link = leaderboards[user_category].runs[0]["run"].weblink
-    WR_time = str(
-        datetime.timedelta(
-            seconds=leaderboards[user_category].runs[0]["run"].times["primary_t"]
-        )
-    )
-
-    result["predicted_time"] = predicted_time
-    result["WR_link"] = WR_link
-    result["WR_time"] = WR_time
-
-    return result
