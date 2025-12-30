@@ -1,4 +1,18 @@
-{
+{   
+    "editor.codeActionsOnSave": {
+        "source.organizeImports": "always"
+    },
+    "[python]": {
+      "editor.formatOnSave": true,
+      "editor.defaultFormatter": "charliermarsh.ruff"
+    },
+    "python.analysis.autoImportCompletions": true,
+    "python.languageServer": "Pylance",
+    "python.testing.pytestArgs": [
+        "tests"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true,
     "restoreTerminals.terminals": [
         {
             "splitTerminals": [
@@ -16,18 +30,18 @@
             ]
         },
         {
+            "splitTerminals": [{
+                "name": "watch app",
+                "commands": ["uv run streamlit run owrestimator/app/main.py"]
+            }]
+        },
+        {
             "splitTerminals": [
                 {
-                    "name": "aider",
-                    "commands": ["aider --env $HOME/.aider.env"]
+                    "name": "opencode",
+                    "commands": ["opencode"]
                 },
             ]
         }
-    ],
-    "python.testing.pytestArgs": [
-        "tests"
-    ],
-    "python.testing.unittestEnabled": false,
-    "python.testing.pytestEnabled": true
+    ]
 }
-

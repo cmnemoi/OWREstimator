@@ -24,4 +24,7 @@ setup-git-hooks:
 test:
 	uv run pytest -v --cov=src --cov-report=xml
 
+train:
+	uv run python owrestimator/training/train.py
+
 .PHONY: all check check-format check-lint install lint test setup-git-hooks

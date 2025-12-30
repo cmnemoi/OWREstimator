@@ -1,10 +1,12 @@
-from joblib import load
+import datetime
+from pathlib import Path
+
 import pandas as pd
-from sklearn.base import BaseEstimator
 import srcomapi
 import srcomapi.datatypes as dt
-import datetime
-from flask import Flask, render_template, request, redirect, url_for
+from flask import Flask, redirect, render_template, request, url_for
+from joblib import load
+from sklearn.base import BaseEstimator
 
 
 class CustomEncoder(BaseEstimator):
@@ -95,7 +97,7 @@ def request_data(game, user_category, api):
             )
 
     # prediction
-    pipeline = load("src/time_prediction.joblib")
+    pipeline = load(Path("bin/time_prediction.joblib"))
     nb_of_runs = len(leaderboards[user_category].runs)
     age = datetime.datetime.now().year - src_game.released
     WR_time = leaderboards[user_category].runs[0]["run"].times["primary_t"]

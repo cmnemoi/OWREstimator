@@ -1,6 +1,8 @@
-import streamlit as st
-from back import request_categories, request_data
+import os
 import sys
+
+import streamlit as st
+from back import predict_world_record, request_categories
 
 st.title("TAS Predictor")
 st.header("Predict the best possible times of your favorite speedgame.")
@@ -19,7 +21,7 @@ if game_submitted:
         sys.exit("Your game has not been found. Try to look for typos.")
     for category in categories:
         try:
-            results = request_data(game, category)
+            results = predict_world_record(game, category)
             WR_link = results["WR_link"]
             WR_time = results["WR_time"]
             predicted_time = results["predicted_time"]
@@ -40,3 +42,6 @@ if game_submitted:
                 category
                 + " category doesn't have any runs so we can't calculate the best time."
             )
+        except AttributeError as e:
+            st.error("Something went wrong. Please try again : " + str(e) + os.getcwd())
+            sys.exit()
