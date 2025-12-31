@@ -4,11 +4,7 @@ import sys
 import streamlit as st
 from back import predict_tas_time
 
-from owrestimator.app.ml import predict_tas_time_from_wr
-from owrestimator.app.speedrun_com_gateway import (
-    get_game_categories,
-    get_game_category_world_record,
-)
+from owrestimator.app.speedrun_com_gateway import get_game_categories
 
 st.title("TAS Predictor")
 st.header("Predict the best possible times of your favorite speedgame.")
@@ -27,9 +23,7 @@ if game_submitted:
         sys.exit("Your game has not been found. Try to look for typos.")
     for category in categories:
         try:
-            world_record_predicton = predict_tas_time(
-                game, category, get_game_category_world_record, predict_tas_time_from_wr
-            )
+            world_record_predicton = predict_tas_time(game, category)
             st.subheader(category + ":")
             (
                 """
