@@ -1,10 +1,10 @@
 import datetime
+from dataclasses import dataclass
 from typing import Callable
 
 import pandas as pd
 import srcomapi
 import srcomapi.datatypes as src_datatype
-from attr import dataclass
 
 src_api = srcomapi.SpeedrunCom()
 
