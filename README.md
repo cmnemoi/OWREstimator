@@ -17,10 +17,10 @@ An app allowing you to predict the best possible time for a game speedrun.
 ## Locally
  * `git clone https://github.com/cmnemoi/OWREstimator.git && cd OWREstimator`
  * `python3 -m venv .venv && source .venv/bin/activate && pip install -r requirements.txt`
- * `streamlit run src/app/main.py`
+ * `streamlit run owrestimator/app/main.py`
 
 # Code and ressources used
-**Python version 3.9**
+**Python version 3.10**
  
 **Packages:** pandas, numpy, sklearn, matplotlib, seaborn, beautiful soup, flask, streamlit, joblib
  
